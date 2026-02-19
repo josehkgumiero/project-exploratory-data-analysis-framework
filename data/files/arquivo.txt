@@ -1,0 +1,97 @@
+dataframe,column,dtype
+sample,mean radius,float64
+sample,mean texture,float64
+sample,mean perimeter,float64
+sample,mean area,float64
+sample,mean smoothness,float64
+sample,mean compactness,float64
+sample,mean concavity,float64
+sample,mean concave points,float64
+sample,mean symmetry,float64
+sample,mean fractal dimension,float64
+sample,radius error,float64
+sample,texture error,float64
+sample,perimeter error,float64
+sample,area error,object
+sample,smoothness error,float64
+sample,compactness error,float64
+sample,concavity error,float64
+sample,concave points error,float64
+sample,symmetry error,float64
+sample,fractal dimension error,float64
+sample,worst radius,float64
+sample,worst texture,float64
+sample,worst perimeter,float64
+sample,worst area,float64
+sample,worst smoothness,float64
+sample,worst compactness,float64
+sample,worst concavity,float64
+sample,worst concave points,float64
+sample,worst symmetry,float64
+sample,worst fractal dimension,float64
+sample,target,float64
+sales,country,object
+sales,order_value_EUR,float64
+sales,cost,float64
+sales,category,object
+sales,customer_name,object
+sales,sales_manager,object
+sales,sales_rep,object
+sales,device_type,object
+sales,order_id,object
+extra_variable,order_id,object
+extra_variable,refund,float64
+extra_data,country,object
+extra_data,order_value_EUR,float64
+extra_data,cost,float64
+extra_data,category,object
+extra_data,customer_name,object
+extra_data,sales_manager,object
+extra_data,sales_rep,object
+extra_data,device_type,object
+extra_data,order_id,object
+extra_data,refund,float64
+fact_sales,order_number,object
+fact_sales,product_key,float64
+fact_sales,customer_key,float64
+fact_sales,sales_amount,float64
+fact_sales,quantity,float64
+fact_sales,price,float64
+dim_customers,customer_key,float64
+dim_customers,customer_id,float64
+dim_customers,customer_number,object
+dim_customers,first_name,object
+dim_customers,last_name,object
+dim_customers,country,object
+dim_customers,marital_status,object
+dim_customers,gender,object
+dim_products,product_key,float64
+dim_products,product_id,float64
+dim_products,product_number,object
+dim_products,product_name,object
+dim_products,category_id,object
+dim_products,category,object
+dim_products,subcategory,object
+dim_products,maintenance,object
+dim_products,cost,float64
+dim_products,product_line,object
+sales_extra_variables,country,object
+sales_extra_variables,order_value_EUR,float64
+sales_extra_variables,cost,float64
+sales_extra_variables,category,object
+sales_extra_variables,customer_name,object
+sales_extra_variables,sales_manager,object
+sales_extra_variables,sales_rep,object
+sales_extra_variables,device_type,object
+sales_extra_variables,order_id,object
+sales_extra_variables,refund,float64
+sales_extra_variables_extra_data,country,object
+sales_extra_variables_extra_data,order_value_EUR,float64
+sales_extra_variables_extra_data,cost,float64
+sales_extra_variables_extra_data,category,object
+sales_extra_variables_extra_data,customer_name,object
+sales_extra_variables_extra_data,sales_manager,object
+sales_extra_variables_extra_data,sales_rep,object
+sales_extra_variables_extra_data,device_type,object
+sales_extra_variables_extra_data,order_id,object
+sales_extra_variables_extra_data,refund,float64
