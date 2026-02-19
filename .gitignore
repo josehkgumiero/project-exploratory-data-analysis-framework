@@ -31,6 +31,10 @@ venv/
 *.log
 logs/
 
+
+# =========================
+# data
+# =========================
 data/raw/
 !data/github_dataset/
 !data/files/
