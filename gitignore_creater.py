@@ -67,21 +67,13 @@ class GitignoreGenerator:
             "*.log",
             "logs/",
             "",
+            "data/raw/",
+            "!data/github_dataset/",
+            "!data/files/",
+            
         ]
 
-        data_patterns: List[str] = []
-
-        for project_dir in self._list_project_directories():
-            data_patterns.extend([
-                f"{project_dir.name}/data/raw/",
-                f"{project_dir.name}/data/storage/",
-                f"{project_dir.name}/data/*",
-                f"!{project_dir.name}/data/processed/",
-                f"!{project_dir.name}/data/github_dataset/",
-                "",
-            ])
-
-        return base_patterns + data_patterns
+        return base_patterns
 
     def create_gitignore(self, overwrite: bool = False) -> None:
         """
