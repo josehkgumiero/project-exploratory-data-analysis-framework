@@ -1,0 +1,44 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+
+# =========================
+# Virtual Environments
+# =========================
+env/
+venv/
+.venv/
+.env/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# IDEs
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+data/data/raw/
+data/data/storage/
+data/data/*
+!data/data/processed/
+!data/data/github_dataset/
+
+notebooks/data/raw/
+notebooks/data/storage/
+notebooks/data/*
+!notebooks/data/processed/
+!notebooks/data/github_dataset/

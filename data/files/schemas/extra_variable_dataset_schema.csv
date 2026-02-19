@@ -1,0 +1,3 @@
+dataset_name,column_name,data_type
+extra_variable_dataset,order_id,object
+extra_variable_dataset,refund,int64

@@ -1,0 +1,11 @@
+dataset_name,column_name,data_type
+sales_dataset,country,object
+sales_dataset,order_value_EUR,float64
+sales_dataset,cost,object
+sales_dataset,date,object
+sales_dataset,category,object
+sales_dataset,customer_name,object
+sales_dataset,sales_manager,object
+sales_dataset,sales_rep,object
+sales_dataset,device_type,object
+sales_dataset,order_id,object

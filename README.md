@@ -1,4 +1,5 @@
 # Installation
+
 - Create virtual environment
 ```
 python -m venv .venv
@@ -9,6 +10,11 @@ python -m venv .venv
 .venv\Scripts\Activate.ps1
 ```
 
+- Update the PIP
+```
+python.exe -m pip install --upgrade pip
+```
+
 - Install dependencies
 ```
 pip install -r requirements.txt
@@ -16,7 +22,7 @@ pip install -r requirements.txt
 
 # Register Virtual Environment as Jupyter Kernel
 ```
-python -m ipykernel install --user --name eda-python-project --display-name "EDA Python Project"
+python -m ipykernel install --user --name project-eda-final --display-name "Project EDA Final"
 ```
 
 # Run the Notebook

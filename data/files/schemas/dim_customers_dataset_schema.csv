@@ -1,0 +1,11 @@
+dataset_name,column_name,data_type
+dim_customers_dataset,customer_key,int64
+dim_customers_dataset,customer_id,int64
+dim_customers_dataset,customer_number,object
+dim_customers_dataset,first_name,object
+dim_customers_dataset,last_name,object
+dim_customers_dataset,country,object
+dim_customers_dataset,marital_status,object
+dim_customers_dataset,gender,object
+dim_customers_dataset,birthdate,object
+dim_customers_dataset,create_date,object

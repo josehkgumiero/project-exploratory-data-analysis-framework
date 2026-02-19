@@ -1,0 +1,2 @@
+RangeIndex,Total Rows,Total Columns,Dtype Summary,Memory Usage (MB)
+0 to 999,1000,10,"{dtype('O'): 9, dtype('float64'): 1}",0.5478

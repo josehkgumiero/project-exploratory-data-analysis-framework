@@ -1,0 +1,8 @@
+dataset_name,file_name,extension,full_path,file_size_kb
+sample_dataset,01.sample_dataset.csv,.csv,C:\Users\User\Desktop\project-exploratory-data-analysis-framework\data\raw\01.sample_dataset.csv,97.62
+sales_dataset,02.sales_dataset.xlsx,.xlsx,C:\Users\User\Desktop\project-exploratory-data-analysis-framework\data\raw\02.sales_dataset.xlsx,84.81
+extra_variable_dataset,03.extra_variable_dataset.xlsx,.xlsx,C:\Users\User\Desktop\project-exploratory-data-analysis-framework\data\raw\03.extra_variable_dataset.xlsx,32.95
+extra_data_dataset,04.extra_data_dataset.xlsx,.xlsx,C:\Users\User\Desktop\project-exploratory-data-analysis-framework\data\raw\04.extra_data_dataset.xlsx,10.46
+fact_sales_dataset,05.fact_sales_dataset.csv,.csv,C:\Users\User\Desktop\project-exploratory-data-analysis-framework\data\raw\05.fact_sales_dataset.csv,3505.06
+dim_customers_dataset,06.dim_customers_dataset.csv,.csv,C:\Users\User\Desktop\project-exploratory-data-analysis-framework\data\raw\06.dim_customers_dataset.csv,1511.35
+dim_products_dataset,07.dim_products_dataset.csv,.csv,C:\Users\User\Desktop\project-exploratory-data-analysis-framework\data\raw\07.dim_products_dataset.csv,27.1

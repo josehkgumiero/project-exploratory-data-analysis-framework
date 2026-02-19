@@ -1,0 +1,8 @@
+dataset_name,rows,columns
+sample_dataset,569,31
+sales_dataset,1000,10
+extra_variable_dataset,1000,2
+extra_data_dataset,10,11
+fact_sales_dataset,60398,9
+dim_customers_dataset,18484,10
+dim_products_dataset,295,11

@@ -1,0 +1,12 @@
+dataset_name,column_name,data_type
+extra_data_dataset,country,object
+extra_data_dataset,order_value_EUR,float64
+extra_data_dataset,cost,float64
+extra_data_dataset,date,object
+extra_data_dataset,category,object
+extra_data_dataset,customer_name,object
+extra_data_dataset,sales_manager,object
+extra_data_dataset,sales_rep,object
+extra_data_dataset,device_type,object
+extra_data_dataset,order_id,object
+extra_data_dataset,refund,int64

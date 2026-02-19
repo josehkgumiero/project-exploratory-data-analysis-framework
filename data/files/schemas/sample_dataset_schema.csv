@@ -1,0 +1,32 @@
+dataset_name,column_name,data_type
+sample_dataset,mean radius,float64
+sample_dataset,mean texture,float64
+sample_dataset,mean perimeter,float64
+sample_dataset,mean area,float64
+sample_dataset,mean smoothness,float64
+sample_dataset,mean compactness,float64
+sample_dataset,mean concavity,float64
+sample_dataset,mean concave points,float64
+sample_dataset,mean symmetry,float64
+sample_dataset,mean fractal dimension,float64
+sample_dataset,radius error,float64
+sample_dataset,texture error,float64
+sample_dataset,perimeter error,float64
+sample_dataset,area error,object
+sample_dataset,smoothness error,float64
+sample_dataset,compactness error,float64
+sample_dataset,concavity error,float64
+sample_dataset,concave points error,float64
+sample_dataset,symmetry error,float64
+sample_dataset,fractal dimension error,float64
+sample_dataset,worst radius,float64
+sample_dataset,worst texture,float64
+sample_dataset,worst perimeter,float64
+sample_dataset,worst area,float64
+sample_dataset,worst smoothness,float64
+sample_dataset,worst compactness,float64
+sample_dataset,worst concavity,float64
+sample_dataset,worst concave points,float64
+sample_dataset,worst symmetry,float64
+sample_dataset,worst fractal dimension,float64
+sample_dataset,target,int64

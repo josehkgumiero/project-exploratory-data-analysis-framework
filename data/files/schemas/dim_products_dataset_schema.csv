@@ -1,0 +1,12 @@
+dataset_name,column_name,data_type
+dim_products_dataset,product_key,int64
+dim_products_dataset,product_id,int64
+dim_products_dataset,product_number,object
+dim_products_dataset,product_name,object
+dim_products_dataset,category_id,object
+dim_products_dataset,category,object
+dim_products_dataset,subcategory,object
+dim_products_dataset,maintenance,object
+dim_products_dataset,cost,int64
+dim_products_dataset,product_line,object
+dim_products_dataset,start_date,object

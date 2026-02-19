@@ -1,0 +1,12 @@
+#,Column,Non-Null Count,Dtype
+0,product_key,295,int64
+1,product_id,295,int64
+2,product_number,295,object
+3,product_name,295,object
+4,category_id,295,object
+5,category,288,object
+6,subcategory,288,object
+7,maintenance,288,object
+8,cost,295,int64
+9,product_line,278,object
+10,start_date,295,object

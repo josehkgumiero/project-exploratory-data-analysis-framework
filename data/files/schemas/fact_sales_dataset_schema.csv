@@ -1,0 +1,10 @@
+dataset_name,column_name,data_type
+fact_sales_dataset,order_number,object
+fact_sales_dataset,product_key,int64
+fact_sales_dataset,customer_key,int64
+fact_sales_dataset,order_date,object
+fact_sales_dataset,shipping_date,object
+fact_sales_dataset,due_date,object
+fact_sales_dataset,sales_amount,int64
+fact_sales_dataset,quantity,int64
+fact_sales_dataset,price,int64

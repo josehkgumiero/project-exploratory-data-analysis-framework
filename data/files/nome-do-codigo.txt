@@ -1,0 +1,4 @@
+que titulo eu dou para esse codigo em markdon no notebook:
+
+🔥 Opção 4 — Focado em Framework de EDA
+# Exploratory Data Analysis – Dataset Inventory Engine
