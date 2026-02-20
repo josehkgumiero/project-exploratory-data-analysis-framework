@@ -1,0 +1,674 @@
+dataset,column,value
+dim_products_dataset,product_number,FR-R92B-58
+dim_products_dataset,product_number,FR-R92R-58
+dim_products_dataset,product_number,BK-M82B-38
+dim_products_dataset,product_number,BK-M82B-42
+dim_products_dataset,product_number,BK-M82B-44
+dim_products_dataset,product_number,BK-M82B-48
+dim_products_dataset,product_number,BK-M82S-38
+dim_products_dataset,product_number,BK-M82S-42
+dim_products_dataset,product_number,BK-M82S-44
+dim_products_dataset,product_number,BK-M82S-48
+dim_products_dataset,product_number,BK-R68R-44
+dim_products_dataset,product_number,BK-R68R-48
+dim_products_dataset,product_number,BK-R68R-52
+dim_products_dataset,product_number,BK-R68R-58
+dim_products_dataset,product_number,BK-R68R-60
+dim_products_dataset,product_number,BK-R93R-44
+dim_products_dataset,product_number,BK-R93R-48
+dim_products_dataset,product_number,BK-R93R-52
+dim_products_dataset,product_number,BK-R93R-56
+dim_products_dataset,product_number,BK-R93R-62
+dim_products_dataset,product_number,FR-M94B-44
+dim_products_dataset,product_number,FR-M94B-48
+dim_products_dataset,product_number,FR-M94S-44
+dim_products_dataset,product_number,FR-M94S-52
+dim_products_dataset,product_number,FR-R72R-44
+dim_products_dataset,product_number,FR-R72R-48
+dim_products_dataset,product_number,FR-R72R-52
+dim_products_dataset,product_number,FR-R72R-58
+dim_products_dataset,product_number,FR-R72R-60
+dim_products_dataset,product_number,SO-B909-L
+dim_products_dataset,product_number,SO-B909-M
+dim_products_dataset,product_number,BK-M47B-38
+dim_products_dataset,product_number,BK-M47B-40
+dim_products_dataset,product_number,BK-M47B-44
+dim_products_dataset,product_number,BK-M47B-48
+dim_products_dataset,product_number,BK-R50B-44
+dim_products_dataset,product_number,BK-R50B-48
+dim_products_dataset,product_number,BK-R50B-52
+dim_products_dataset,product_number,BK-R50B-58
+dim_products_dataset,product_number,BK-R50B-60
+dim_products_dataset,product_number,BK-R50B-62
+dim_products_dataset,product_number,BK-R50R-44
+dim_products_dataset,product_number,BK-R50R-48
+dim_products_dataset,product_number,BK-R50R-52
+dim_products_dataset,product_number,BK-R50R-58
+dim_products_dataset,product_number,BK-R50R-60
+dim_products_dataset,product_number,BK-R50R-62
+dim_products_dataset,product_number,BK-R89R-44
+dim_products_dataset,product_number,BK-R89R-48
+dim_products_dataset,product_number,BK-R89R-52
+dim_products_dataset,product_number,FK-1639
+dim_products_dataset,product_number,FK-5136
+dim_products_dataset,product_number,FK-9939
+dim_products_dataset,product_number,FR-M63B-38
+dim_products_dataset,product_number,FR-M63B-40
+dim_products_dataset,product_number,FR-M63B-44
+dim_products_dataset,product_number,FR-M63B-48
+dim_products_dataset,product_number,FR-R38R-44
+dim_products_dataset,product_number,FR-R38R-48
+dim_products_dataset,product_number,FR-R38R-52
+dim_products_dataset,product_number,FR-R38R-58
+dim_products_dataset,product_number,FR-R38R-60
+dim_products_dataset,product_number,FR-R38R-62
+dim_products_dataset,product_number,FW-M423
+dim_products_dataset,product_number,FW-M762
+dim_products_dataset,product_number,FW-M928
+dim_products_dataset,product_number,FW-R623
+dim_products_dataset,product_number,FW-R762
+dim_products_dataset,product_number,FW-R820
+dim_products_dataset,product_number,FW-T905
+dim_products_dataset,product_number,GL-F110-L
+dim_products_dataset,product_number,GL-F110-M
+dim_products_dataset,product_number,GL-F110-S
+dim_products_dataset,product_number,HS-0296
+dim_products_dataset,product_number,HS-2451
+dim_products_dataset,product_number,HS-3479
+dim_products_dataset,product_number,LO-C100
+dim_products_dataset,product_number,LT-H902
+dim_products_dataset,product_number,LT-H903
+dim_products_dataset,product_number,LT-T990
+dim_products_dataset,product_number,PA-T100
+dim_products_dataset,product_number,PU-0452
+dim_products_dataset,product_number,PU-M044
+dim_products_dataset,product_number,RW-M423
+dim_products_dataset,product_number,RW-M762
+dim_products_dataset,product_number,RW-M928
+dim_products_dataset,product_number,RW-R623
+dim_products_dataset,product_number,RW-R762
+dim_products_dataset,product_number,RW-R820
+dim_products_dataset,product_number,RW-T905
+dim_products_dataset,product_number,SB-M891-L
+dim_products_dataset,product_number,SB-M891-M
+dim_products_dataset,product_number,SB-M891-S
+dim_products_dataset,product_number,SH-M897-L
+dim_products_dataset,product_number,SH-M897-M
+dim_products_dataset,product_number,SH-M897-S
+dim_products_dataset,product_number,SH-M897-X
+dim_products_dataset,product_number,TG-W091-L
+dim_products_dataset,product_number,TG-W091-M
+dim_products_dataset,product_number,TG-W091-S
+dim_products_dataset,product_number,BB-7421
+dim_products_dataset,product_number,BB-8107
+dim_products_dataset,product_number,BB-9108
+dim_products_dataset,product_number,BC-M005
+dim_products_dataset,product_number,BC-R205
+dim_products_dataset,product_number,BK-M18B-40
+dim_products_dataset,product_number,BK-M18B-42
+dim_products_dataset,product_number,BK-M18B-44
+dim_products_dataset,product_number,BK-M18B-48
+dim_products_dataset,product_number,BK-M18B-52
+dim_products_dataset,product_number,BK-M18S-40
+dim_products_dataset,product_number,BK-M18S-42
+dim_products_dataset,product_number,BK-M18S-44
+dim_products_dataset,product_number,BK-M18S-48
+dim_products_dataset,product_number,BK-M18S-52
+dim_products_dataset,product_number,BK-M38S-38
+dim_products_dataset,product_number,BK-M38S-40
+dim_products_dataset,product_number,BK-M38S-42
+dim_products_dataset,product_number,BK-M38S-46
+dim_products_dataset,product_number,BK-M68B-38
+dim_products_dataset,product_number,BK-M68B-42
+dim_products_dataset,product_number,BK-M68B-46
+dim_products_dataset,product_number,BK-M68S-38
+dim_products_dataset,product_number,BK-M68S-42
+dim_products_dataset,product_number,BK-M68S-46
+dim_products_dataset,product_number,BK-R19B-44
+dim_products_dataset,product_number,BK-R19B-48
+dim_products_dataset,product_number,BK-R19B-52
+dim_products_dataset,product_number,BK-R19B-58
+dim_products_dataset,product_number,BK-R64Y-38
+dim_products_dataset,product_number,BK-R64Y-40
+dim_products_dataset,product_number,BK-R64Y-42
+dim_products_dataset,product_number,BK-R64Y-44
+dim_products_dataset,product_number,BK-R64Y-48
+dim_products_dataset,product_number,BK-R79Y-40
+dim_products_dataset,product_number,BK-R79Y-42
+dim_products_dataset,product_number,BK-R79Y-44
+dim_products_dataset,product_number,BK-R79Y-48
+dim_products_dataset,product_number,BK-R89B-44
+dim_products_dataset,product_number,BK-R89B-48
+dim_products_dataset,product_number,BK-R89B-52
+dim_products_dataset,product_number,BK-R89B-58
+dim_products_dataset,product_number,BK-R89R-58
+dim_products_dataset,product_number,BK-T18U-44
+dim_products_dataset,product_number,BK-T18U-50
+dim_products_dataset,product_number,BK-T18U-54
+dim_products_dataset,product_number,BK-T18U-58
+dim_products_dataset,product_number,BK-T18U-62
+dim_products_dataset,product_number,BK-T18Y-44
+dim_products_dataset,product_number,BK-T18Y-50
+dim_products_dataset,product_number,BK-T18Y-54
+dim_products_dataset,product_number,BK-T18Y-58
+dim_products_dataset,product_number,BK-T18Y-62
+dim_products_dataset,product_number,BK-T44U-46
+dim_products_dataset,product_number,BK-T44U-50
+dim_products_dataset,product_number,BK-T44U-54
+dim_products_dataset,product_number,BK-T44U-60
+dim_products_dataset,product_number,BK-T79U-46
+dim_products_dataset,product_number,BK-T79U-50
+dim_products_dataset,product_number,BK-T79U-54
+dim_products_dataset,product_number,BK-T79U-60
+dim_products_dataset,product_number,BK-T79Y-46
+dim_products_dataset,product_number,BK-T79Y-50
+dim_products_dataset,product_number,BK-T79Y-54
+dim_products_dataset,product_number,BK-T79Y-60
+dim_products_dataset,product_number,CA-1098
+dim_products_dataset,product_number,CH-0234
+dim_products_dataset,product_number,CL-9009
+dim_products_dataset,product_number,CS-4759
+dim_products_dataset,product_number,CS-6583
+dim_products_dataset,product_number,CS-9183
+dim_products_dataset,product_number,FB-9873
+dim_products_dataset,product_number,FD-2342
+dim_products_dataset,product_number,FE-6654
+dim_products_dataset,product_number,FR-M21B-40
+dim_products_dataset,product_number,FR-M21B-42
+dim_products_dataset,product_number,FR-M21B-44
+dim_products_dataset,product_number,FR-M21B-48
+dim_products_dataset,product_number,FR-M21B-52
+dim_products_dataset,product_number,FR-M21S-40
+dim_products_dataset,product_number,FR-M21S-42
+dim_products_dataset,product_number,FR-M21S-44
+dim_products_dataset,product_number,FR-M21S-48
+dim_products_dataset,product_number,FR-M21S-52
+dim_products_dataset,product_number,FR-M63S-38
+dim_products_dataset,product_number,FR-M63S-40
+dim_products_dataset,product_number,FR-M63S-42
+dim_products_dataset,product_number,FR-M63S-46
+dim_products_dataset,product_number,FR-M94B-38
+dim_products_dataset,product_number,FR-M94B-42
+dim_products_dataset,product_number,FR-M94B-46
+dim_products_dataset,product_number,FR-M94S-38
+dim_products_dataset,product_number,FR-M94S-42
+dim_products_dataset,product_number,FR-M94S-46
+dim_products_dataset,product_number,FR-R38B-44
+dim_products_dataset,product_number,FR-R38B-48
+dim_products_dataset,product_number,FR-R38B-52
+dim_products_dataset,product_number,FR-R38B-58
+dim_products_dataset,product_number,FR-R38B-60
+dim_products_dataset,product_number,FR-R38B-62
+dim_products_dataset,product_number,FR-R72Y-38
+dim_products_dataset,product_number,FR-R72Y-40
+dim_products_dataset,product_number,FR-R72Y-42
+dim_products_dataset,product_number,FR-R72Y-44
+dim_products_dataset,product_number,FR-R72Y-48
+dim_products_dataset,product_number,FR-R92B-44
+dim_products_dataset,product_number,FR-R92B-48
+dim_products_dataset,product_number,FR-R92B-52
+dim_products_dataset,product_number,FR-R92B-62
+dim_products_dataset,product_number,FR-R92R-44
+dim_products_dataset,product_number,FR-R92R-48
+dim_products_dataset,product_number,FR-R92R-52
+dim_products_dataset,product_number,FR-R92R-56
+dim_products_dataset,product_number,FR-R92R-62
+dim_products_dataset,product_number,FR-T67U-44
+dim_products_dataset,product_number,FR-T67U-50
+dim_products_dataset,product_number,FR-T67U-54
+dim_products_dataset,product_number,FR-T67U-58
+dim_products_dataset,product_number,FR-T67U-62
+dim_products_dataset,product_number,FR-T67Y-44
+dim_products_dataset,product_number,FR-T67Y-50
+dim_products_dataset,product_number,FR-T67Y-54
+dim_products_dataset,product_number,FR-T67Y-58
+dim_products_dataset,product_number,FR-T67Y-62
+dim_products_dataset,product_number,FR-T98U-46
+dim_products_dataset,product_number,FR-T98U-50
+dim_products_dataset,product_number,FR-T98U-54
+dim_products_dataset,product_number,FR-T98U-60
+dim_products_dataset,product_number,FR-T98Y-46
+dim_products_dataset,product_number,FR-T98Y-50
+dim_products_dataset,product_number,FR-T98Y-54
+dim_products_dataset,product_number,FR-T98Y-60
+dim_products_dataset,product_number,GL-H102-L
+dim_products_dataset,product_number,GL-H102-M
+dim_products_dataset,product_number,GL-H102-S
+dim_products_dataset,product_number,HB-M243
+dim_products_dataset,product_number,HB-M763
+dim_products_dataset,product_number,HB-M918
+dim_products_dataset,product_number,HB-R504
+dim_products_dataset,product_number,HB-R720
+dim_products_dataset,product_number,HB-R956
+dim_products_dataset,product_number,HB-T721
+dim_products_dataset,product_number,HB-T928
+dim_products_dataset,product_number,HL-U509
+dim_products_dataset,product_number,HL-U509-B
+dim_products_dataset,product_number,HL-U509-R
+dim_products_dataset,product_number,HY-1023-70
+dim_products_dataset,product_number,LJ-0192-L
+dim_products_dataset,product_number,LJ-0192-M
+dim_products_dataset,product_number,LJ-0192-S
+dim_products_dataset,product_number,LJ-0192-X
+dim_products_dataset,product_number,PD-M282
+dim_products_dataset,product_number,PD-M340
+dim_products_dataset,product_number,PD-M562
+dim_products_dataset,product_number,PD-R347
+dim_products_dataset,product_number,PD-R563
+dim_products_dataset,product_number,PD-R853
+dim_products_dataset,product_number,PD-T852
+dim_products_dataset,product_number,PK-7098
+dim_products_dataset,product_number,RA-H123
+dim_products_dataset,product_number,RB-9231
+dim_products_dataset,product_number,RD-2308
+dim_products_dataset,product_number,SE-M236
+dim_products_dataset,product_number,SE-M798
+dim_products_dataset,product_number,SE-M940
+dim_products_dataset,product_number,SE-R581
+dim_products_dataset,product_number,SE-R908
+dim_products_dataset,product_number,SE-R995
+dim_products_dataset,product_number,SE-T312
+dim_products_dataset,product_number,SE-T762
+dim_products_dataset,product_number,SE-T924
+dim_products_dataset,product_number,SH-W890-L
+dim_products_dataset,product_number,SH-W890-M
+dim_products_dataset,product_number,SH-W890-S
+dim_products_dataset,product_number,SJ-0194-L
+dim_products_dataset,product_number,SJ-0194-M
+dim_products_dataset,product_number,SJ-0194-S
+dim_products_dataset,product_number,SJ-0194-X
+dim_products_dataset,product_number,SO-R809-L
+dim_products_dataset,product_number,SO-R809-M
+dim_products_dataset,product_number,ST-1401
+dim_products_dataset,product_number,TI-M267
+dim_products_dataset,product_number,TI-M602
+dim_products_dataset,product_number,TI-M823
+dim_products_dataset,product_number,TI-R092
+dim_products_dataset,product_number,TI-R628
+dim_products_dataset,product_number,TI-R982
+dim_products_dataset,product_number,TI-T723
+dim_products_dataset,product_number,TT-M928
+dim_products_dataset,product_number,TT-R982
+dim_products_dataset,product_number,TT-T092
+dim_products_dataset,product_number,VE-C304-L
+dim_products_dataset,product_number,VE-C304-M
+dim_products_dataset,product_number,VE-C304-S
+dim_products_dataset,product_number,WB-H098
+dim_products_dataset,product_name,HL Road Frame - Black- 58
+dim_products_dataset,product_name,HL Road Frame - Red- 58
+dim_products_dataset,product_name,Mountain-100 Black- 38
+dim_products_dataset,product_name,Mountain-100 Black- 42
+dim_products_dataset,product_name,Mountain-100 Black- 44
+dim_products_dataset,product_name,Mountain-100 Black- 48
+dim_products_dataset,product_name,Mountain-100 Silver- 38
+dim_products_dataset,product_name,Mountain-100 Silver- 42
+dim_products_dataset,product_name,Mountain-100 Silver- 44
+dim_products_dataset,product_name,Mountain-100 Silver- 48
+dim_products_dataset,product_name,Road-450 Red- 44
+dim_products_dataset,product_name,Road-450 Red- 48
+dim_products_dataset,product_name,Road-450 Red- 52
+dim_products_dataset,product_name,Road-450 Red- 58
+dim_products_dataset,product_name,Road-450 Red- 60
+dim_products_dataset,product_name,Road-150 Red- 44
+dim_products_dataset,product_name,Road-150 Red- 48
+dim_products_dataset,product_name,Road-150 Red- 52
+dim_products_dataset,product_name,Road-150 Red- 56
+dim_products_dataset,product_name,Road-150 Red- 62
+dim_products_dataset,product_name,HL Mountain Frame - Black- 44
+dim_products_dataset,product_name,HL Mountain Frame - Black- 48
+dim_products_dataset,product_name,HL Mountain Frame - Silver- 44
+dim_products_dataset,product_name,HL Mountain Frame - Silver- 48
+dim_products_dataset,product_name,ML Road Frame - Red- 44
+dim_products_dataset,product_name,ML Road Frame - Red- 48
+dim_products_dataset,product_name,ML Road Frame - Red- 52
+dim_products_dataset,product_name,ML Road Frame - Red- 58
+dim_products_dataset,product_name,ML Road Frame - Red- 60
+dim_products_dataset,product_name,Mountain Bike Socks- L
+dim_products_dataset,product_name,Mountain Bike Socks- M
+dim_products_dataset,product_name,Mountain-300 Black- 38
+dim_products_dataset,product_name,Mountain-300 Black- 40
+dim_products_dataset,product_name,Mountain-300 Black- 44
+dim_products_dataset,product_name,Mountain-300 Black- 48
+dim_products_dataset,product_name,Road-650 Black- 44
+dim_products_dataset,product_name,Road-650 Black- 48
+dim_products_dataset,product_name,Road-650 Black- 52
+dim_products_dataset,product_name,Road-650 Black- 58
+dim_products_dataset,product_name,Road-650 Black- 60
+dim_products_dataset,product_name,Road-650 Black- 62
+dim_products_dataset,product_name,Road-650 Red- 44
+dim_products_dataset,product_name,Road-650 Red- 48
+dim_products_dataset,product_name,Road-650 Red- 52
+dim_products_dataset,product_name,Road-650 Red- 58
+dim_products_dataset,product_name,Road-650 Red- 60
+dim_products_dataset,product_name,Road-650 Red- 62
+dim_products_dataset,product_name,Road-250 Red- 44
+dim_products_dataset,product_name,Road-250 Red- 48
+dim_products_dataset,product_name,Road-250 Red- 52
+dim_products_dataset,product_name,LL Fork
+dim_products_dataset,product_name,ML Fork
+dim_products_dataset,product_name,HL Fork
+dim_products_dataset,product_name,ML Mountain Frame - Black- 38
+dim_products_dataset,product_name,ML Mountain Frame - Black- 40
+dim_products_dataset,product_name,ML Mountain Frame - Black- 44
+dim_products_dataset,product_name,ML Mountain Frame - Black- 48
+dim_products_dataset,product_name,LL Road Frame - Red- 44
+dim_products_dataset,product_name,LL Road Frame - Red- 48
+dim_products_dataset,product_name,LL Road Frame - Red- 52
+dim_products_dataset,product_name,LL Road Frame - Red- 58
+dim_products_dataset,product_name,LL Road Frame - Red- 60
+dim_products_dataset,product_name,LL Road Frame - Red- 62
+dim_products_dataset,product_name,LL Mountain Front Wheel
+dim_products_dataset,product_name,ML Mountain Front Wheel
+dim_products_dataset,product_name,HL Mountain Front Wheel
+dim_products_dataset,product_name,LL Road Front Wheel
+dim_products_dataset,product_name,ML Road Front Wheel
+dim_products_dataset,product_name,HL Road Front Wheel
+dim_products_dataset,product_name,Touring Front Wheel
+dim_products_dataset,product_name,Full-Finger Gloves- L
+dim_products_dataset,product_name,Full-Finger Gloves- M
+dim_products_dataset,product_name,Full-Finger Gloves- S
+dim_products_dataset,product_name,LL Headset
+dim_products_dataset,product_name,ML Headset
+dim_products_dataset,product_name,HL Headset
+dim_products_dataset,product_name,Cable Lock
+dim_products_dataset,product_name,Headlights - Dual-Beam
+dim_products_dataset,product_name,Headlights - Weatherproof
+dim_products_dataset,product_name,Taillights - Battery-Powered
+dim_products_dataset,product_name,Touring-Panniers- Large
+dim_products_dataset,product_name,Minipump
+dim_products_dataset,product_name,Mountain Pump
+dim_products_dataset,product_name,LL Mountain Rear Wheel
+dim_products_dataset,product_name,ML Mountain Rear Wheel
+dim_products_dataset,product_name,HL Mountain Rear Wheel
+dim_products_dataset,product_name,LL Road Rear Wheel
+dim_products_dataset,product_name,ML Road Rear Wheel
+dim_products_dataset,product_name,HL Road Rear Wheel
+dim_products_dataset,product_name,Touring Rear Wheel
+dim_products_dataset,product_name,Men's Bib-Shorts- L
+dim_products_dataset,product_name,Men's Bib-Shorts- M
+dim_products_dataset,product_name,Men's Bib-Shorts- S
+dim_products_dataset,product_name,Men's Sports Shorts- L
+dim_products_dataset,product_name,Men's Sports Shorts- M
+dim_products_dataset,product_name,Men's Sports Shorts- S
+dim_products_dataset,product_name,Men's Sports Shorts- XL
+dim_products_dataset,product_name,Women's Tights- L
+dim_products_dataset,product_name,Women's Tights- M
+dim_products_dataset,product_name,Women's Tights- S
+dim_products_dataset,product_name,LL Bottom Bracket
+dim_products_dataset,product_name,ML Bottom Bracket
+dim_products_dataset,product_name,HL Bottom Bracket
+dim_products_dataset,product_name,Mountain Bottle Cage
+dim_products_dataset,product_name,Road Bottle Cage
+dim_products_dataset,product_name,Mountain-500 Black- 40
+dim_products_dataset,product_name,Mountain-500 Black- 42
+dim_products_dataset,product_name,Mountain-500 Black- 44
+dim_products_dataset,product_name,Mountain-500 Black- 48
+dim_products_dataset,product_name,Mountain-500 Black- 52
+dim_products_dataset,product_name,Mountain-500 Silver- 40
+dim_products_dataset,product_name,Mountain-500 Silver- 42
+dim_products_dataset,product_name,Mountain-500 Silver- 44
+dim_products_dataset,product_name,Mountain-500 Silver- 48
+dim_products_dataset,product_name,Mountain-500 Silver- 52
+dim_products_dataset,product_name,Mountain-400-W Silver- 38
+dim_products_dataset,product_name,Mountain-400-W Silver- 40
+dim_products_dataset,product_name,Mountain-400-W Silver- 42
+dim_products_dataset,product_name,Mountain-400-W Silver- 46
+dim_products_dataset,product_name,Mountain-200 Black- 38
+dim_products_dataset,product_name,Mountain-200 Black- 42
+dim_products_dataset,product_name,Mountain-200 Black- 46
+dim_products_dataset,product_name,Mountain-200 Silver- 38
+dim_products_dataset,product_name,Mountain-200 Silver- 42
+dim_products_dataset,product_name,Mountain-200 Silver- 46
+dim_products_dataset,product_name,Road-750 Black- 44
+dim_products_dataset,product_name,Road-750 Black- 48
+dim_products_dataset,product_name,Road-750 Black- 52
+dim_products_dataset,product_name,Road-750 Black- 58
+dim_products_dataset,product_name,Road-550-W Yellow- 38
+dim_products_dataset,product_name,Road-550-W Yellow- 40
+dim_products_dataset,product_name,Road-550-W Yellow- 42
+dim_products_dataset,product_name,Road-550-W Yellow- 44
+dim_products_dataset,product_name,Road-550-W Yellow- 48
+dim_products_dataset,product_name,Road-350-W Yellow- 40
+dim_products_dataset,product_name,Road-350-W Yellow- 42
+dim_products_dataset,product_name,Road-350-W Yellow- 44
+dim_products_dataset,product_name,Road-350-W Yellow- 48
+dim_products_dataset,product_name,Road-250 Black- 44
+dim_products_dataset,product_name,Road-250 Black- 48
+dim_products_dataset,product_name,Road-250 Black- 52
+dim_products_dataset,product_name,Road-250 Black- 58
+dim_products_dataset,product_name,Road-250 Red- 58
+dim_products_dataset,product_name,Touring-3000 Blue- 44
+dim_products_dataset,product_name,Touring-3000 Blue- 50
+dim_products_dataset,product_name,Touring-3000 Blue- 54
+dim_products_dataset,product_name,Touring-3000 Blue- 58
+dim_products_dataset,product_name,Touring-3000 Blue- 62
+dim_products_dataset,product_name,Touring-3000 Yellow- 44
+dim_products_dataset,product_name,Touring-3000 Yellow- 50
+dim_products_dataset,product_name,Touring-3000 Yellow- 54
+dim_products_dataset,product_name,Touring-3000 Yellow- 58
+dim_products_dataset,product_name,Touring-3000 Yellow- 62
+dim_products_dataset,product_name,Touring-2000 Blue- 46
+dim_products_dataset,product_name,Touring-2000 Blue- 50
+dim_products_dataset,product_name,Touring-2000 Blue- 54
+dim_products_dataset,product_name,Touring-2000 Blue- 60
+dim_products_dataset,product_name,Touring-1000 Blue- 46
+dim_products_dataset,product_name,Touring-1000 Blue- 50
+dim_products_dataset,product_name,Touring-1000 Blue- 54
+dim_products_dataset,product_name,Touring-1000 Blue- 60
+dim_products_dataset,product_name,Touring-1000 Yellow- 46
+dim_products_dataset,product_name,Touring-1000 Yellow- 50
+dim_products_dataset,product_name,Touring-1000 Yellow- 54
+dim_products_dataset,product_name,Touring-1000 Yellow- 60
+dim_products_dataset,product_name,AWC Logo Cap
+dim_products_dataset,product_name,Chain
+dim_products_dataset,product_name,Bike Wash - Dissolver
+dim_products_dataset,product_name,LL Crankset
+dim_products_dataset,product_name,ML Crankset
+dim_products_dataset,product_name,HL Crankset
+dim_products_dataset,product_name,Front Brakes
+dim_products_dataset,product_name,Front Derailleur
+dim_products_dataset,product_name,Fender Set - Mountain
+dim_products_dataset,product_name,LL Mountain Frame - Black- 40
+dim_products_dataset,product_name,LL Mountain Frame - Black- 42
+dim_products_dataset,product_name,LL Mountain Frame - Black- 44
+dim_products_dataset,product_name,LL Mountain Frame - Black- 48
+dim_products_dataset,product_name,LL Mountain Frame - Black- 52
+dim_products_dataset,product_name,LL Mountain Frame - Silver- 40
+dim_products_dataset,product_name,LL Mountain Frame - Silver- 42
+dim_products_dataset,product_name,LL Mountain Frame - Silver- 44
+dim_products_dataset,product_name,LL Mountain Frame - Silver- 48
+dim_products_dataset,product_name,LL Mountain Frame - Silver- 52
+dim_products_dataset,product_name,ML Mountain Frame-W - Silver- 38
+dim_products_dataset,product_name,ML Mountain Frame-W - Silver- 40
+dim_products_dataset,product_name,ML Mountain Frame-W - Silver- 42
+dim_products_dataset,product_name,ML Mountain Frame-W - Silver- 46
+dim_products_dataset,product_name,HL Mountain Frame - Black- 38
+dim_products_dataset,product_name,HL Mountain Frame - Black- 42
+dim_products_dataset,product_name,HL Mountain Frame - Black- 46
+dim_products_dataset,product_name,HL Mountain Frame - Silver- 38
+dim_products_dataset,product_name,HL Mountain Frame - Silver- 42
+dim_products_dataset,product_name,HL Mountain Frame - Silver- 46
+dim_products_dataset,product_name,LL Road Frame - Black- 44
+dim_products_dataset,product_name,LL Road Frame - Black- 48
+dim_products_dataset,product_name,LL Road Frame - Black- 52
+dim_products_dataset,product_name,LL Road Frame - Black- 58
+dim_products_dataset,product_name,LL Road Frame - Black- 60
+dim_products_dataset,product_name,LL Road Frame - Black- 62
+dim_products_dataset,product_name,ML Road Frame-W - Yellow- 38
+dim_products_dataset,product_name,ML Road Frame-W - Yellow- 40
+dim_products_dataset,product_name,ML Road Frame-W - Yellow- 42
+dim_products_dataset,product_name,ML Road Frame-W - Yellow- 44
+dim_products_dataset,product_name,ML Road Frame-W - Yellow- 48
+dim_products_dataset,product_name,HL Road Frame - Black- 44
+dim_products_dataset,product_name,HL Road Frame - Black- 48
+dim_products_dataset,product_name,HL Road Frame - Black- 52
+dim_products_dataset,product_name,HL Road Frame - Black- 62
+dim_products_dataset,product_name,HL Road Frame - Red- 44
+dim_products_dataset,product_name,HL Road Frame - Red- 48
+dim_products_dataset,product_name,HL Road Frame - Red- 52
+dim_products_dataset,product_name,HL Road Frame - Red- 56
+dim_products_dataset,product_name,HL Road Frame - Red- 62
+dim_products_dataset,product_name,LL Touring Frame - Blue- 44
+dim_products_dataset,product_name,LL Touring Frame - Blue- 50
+dim_products_dataset,product_name,LL Touring Frame - Blue- 54
+dim_products_dataset,product_name,LL Touring Frame - Blue- 58
+dim_products_dataset,product_name,LL Touring Frame - Blue- 62
+dim_products_dataset,product_name,LL Touring Frame - Yellow- 44
+dim_products_dataset,product_name,LL Touring Frame - Yellow- 50
+dim_products_dataset,product_name,LL Touring Frame - Yellow- 54
+dim_products_dataset,product_name,LL Touring Frame - Yellow- 58
+dim_products_dataset,product_name,LL Touring Frame - Yellow- 62
+dim_products_dataset,product_name,HL Touring Frame - Blue- 46
+dim_products_dataset,product_name,HL Touring Frame - Blue- 50
+dim_products_dataset,product_name,HL Touring Frame - Blue- 54
+dim_products_dataset,product_name,HL Touring Frame - Blue- 60
+dim_products_dataset,product_name,HL Touring Frame - Yellow- 46
+dim_products_dataset,product_name,HL Touring Frame - Yellow- 50
+dim_products_dataset,product_name,HL Touring Frame - Yellow- 54
+dim_products_dataset,product_name,HL Touring Frame - Yellow- 60
+dim_products_dataset,product_name,Half-Finger Gloves- L
+dim_products_dataset,product_name,Half-Finger Gloves- M
+dim_products_dataset,product_name,Half-Finger Gloves- S
+dim_products_dataset,product_name,LL Mountain Handlebars
+dim_products_dataset,product_name,ML Mountain Handlebars
+dim_products_dataset,product_name,HL Mountain Handlebars
+dim_products_dataset,product_name,LL Road Handlebars
+dim_products_dataset,product_name,ML Road Handlebars
+dim_products_dataset,product_name,HL Road Handlebars
+dim_products_dataset,product_name,LL Touring Handlebars
+dim_products_dataset,product_name,HL Touring Handlebars
+dim_products_dataset,product_name,Sport-100 Helmet- Black
+dim_products_dataset,product_name,Sport-100 Helmet- Blue
+dim_products_dataset,product_name,Sport-100 Helmet- Red
+dim_products_dataset,product_name,Hydration Pack - 70 oz.
+dim_products_dataset,product_name,Long-Sleeve Logo Jersey- L
+dim_products_dataset,product_name,Long-Sleeve Logo Jersey- M
+dim_products_dataset,product_name,Long-Sleeve Logo Jersey- S
+dim_products_dataset,product_name,Long-Sleeve Logo Jersey- XL
+dim_products_dataset,product_name,LL Mountain Pedal
+dim_products_dataset,product_name,ML Mountain Pedal
+dim_products_dataset,product_name,HL Mountain Pedal
+dim_products_dataset,product_name,LL Road Pedal
+dim_products_dataset,product_name,ML Road Pedal
+dim_products_dataset,product_name,HL Road Pedal
+dim_products_dataset,product_name,Touring Pedal
+dim_products_dataset,product_name,Patch Kit/8 Patches
+dim_products_dataset,product_name,Hitch Rack - 4-Bike
+dim_products_dataset,product_name,Rear Brakes
+dim_products_dataset,product_name,Rear Derailleur
+dim_products_dataset,product_name,LL Mountain Seat/Saddle
+dim_products_dataset,product_name,ML Mountain Seat/Saddle
+dim_products_dataset,product_name,HL Mountain Seat/Saddle
+dim_products_dataset,product_name,LL Road Seat/Saddle
+dim_products_dataset,product_name,ML Road Seat/Saddle
+dim_products_dataset,product_name,HL Road Seat/Saddle
+dim_products_dataset,product_name,LL Touring Seat/Saddle
+dim_products_dataset,product_name,ML Touring Seat/Saddle
+dim_products_dataset,product_name,HL Touring Seat/Saddle
+dim_products_dataset,product_name,Women's Mountain Shorts- L
+dim_products_dataset,product_name,Women's Mountain Shorts- M
+dim_products_dataset,product_name,Women's Mountain Shorts- S
+dim_products_dataset,product_name,Short-Sleeve Classic Jersey- L
+dim_products_dataset,product_name,Short-Sleeve Classic Jersey- M
+dim_products_dataset,product_name,Short-Sleeve Classic Jersey- S
+dim_products_dataset,product_name,Short-Sleeve Classic Jersey- XL
+dim_products_dataset,product_name,Racing Socks- L
+dim_products_dataset,product_name,Racing Socks- M
+dim_products_dataset,product_name,All-Purpose Bike Stand
+dim_products_dataset,product_name,LL Mountain Tire
+dim_products_dataset,product_name,ML Mountain Tire
+dim_products_dataset,product_name,HL Mountain Tire
+dim_products_dataset,product_name,LL Road Tire
+dim_products_dataset,product_name,ML Road Tire
+dim_products_dataset,product_name,HL Road Tire
+dim_products_dataset,product_name,Touring Tire
+dim_products_dataset,product_name,Mountain Tire Tube
+dim_products_dataset,product_name,Road Tire Tube
+dim_products_dataset,product_name,Touring Tire Tube
+dim_products_dataset,product_name,Classic Vest- L
+dim_products_dataset,product_name,Classic Vest- M
+dim_products_dataset,product_name,Classic Vest- S
+dim_products_dataset,product_name,Water Bottle - 30 oz.
+dim_products_dataset,category_id,CO_RF
+dim_products_dataset,category_id,BI_MB
+dim_products_dataset,category_id,BI_RB
+dim_products_dataset,category_id,CO_MF
+dim_products_dataset,category_id,CL_SO
+dim_products_dataset,category_id,CO_FO
+dim_products_dataset,category_id,CO_WH
+dim_products_dataset,category_id,CL_GL
+dim_products_dataset,category_id,CO_HS
+dim_products_dataset,category_id,AC_LO
+dim_products_dataset,category_id,AC_LI
+dim_products_dataset,category_id,AC_PA
+dim_products_dataset,category_id,AC_PU
+dim_products_dataset,category_id,CL_BS
+dim_products_dataset,category_id,CL_SH
+dim_products_dataset,category_id,CL_TI
+dim_products_dataset,category_id,CO_BB
+dim_products_dataset,category_id,AC_BC
+dim_products_dataset,category_id,BI_TB
+dim_products_dataset,category_id,CL_CA
+dim_products_dataset,category_id,CO_CH
+dim_products_dataset,category_id,AC_CL
+dim_products_dataset,category_id,CO_CS
+dim_products_dataset,category_id,CO_BR
+dim_products_dataset,category_id,CO_DE
+dim_products_dataset,category_id,AC_FE
+dim_products_dataset,category_id,CO_TF
+dim_products_dataset,category_id,CO_HB
+dim_products_dataset,category_id,AC_HE
+dim_products_dataset,category_id,AC_HP
+dim_products_dataset,category_id,CL_JE
+dim_products_dataset,category_id,CO_PE
+dim_products_dataset,category_id,AC_TT
+dim_products_dataset,category_id,AC_BR
+dim_products_dataset,category_id,CO_SA
+dim_products_dataset,category_id,AC_BS
+dim_products_dataset,category_id,CL_VE
+dim_products_dataset,category,Components
+dim_products_dataset,category,Bikes
+dim_products_dataset,category,Clothing
+dim_products_dataset,category,Accessories
+dim_products_dataset,subcategory,Road Frames
+dim_products_dataset,subcategory,Mountain Bikes
+dim_products_dataset,subcategory,Road Bikes
+dim_products_dataset,subcategory,Mountain Frames
+dim_products_dataset,subcategory,Socks
+dim_products_dataset,subcategory,Forks
+dim_products_dataset,subcategory,Wheels
+dim_products_dataset,subcategory,Gloves
+dim_products_dataset,subcategory,Headsets
+dim_products_dataset,subcategory,Locks
+dim_products_dataset,subcategory,Lights
+dim_products_dataset,subcategory,Panniers
+dim_products_dataset,subcategory,Pumps
+dim_products_dataset,subcategory,Bib-Shorts
+dim_products_dataset,subcategory,Shorts
+dim_products_dataset,subcategory,Tights
+dim_products_dataset,subcategory,Bottom Brackets
+dim_products_dataset,subcategory,Bottles and Cages
+dim_products_dataset,subcategory,Touring Bikes
+dim_products_dataset,subcategory,Caps
+dim_products_dataset,subcategory,Chains
+dim_products_dataset,subcategory,Cleaners
+dim_products_dataset,subcategory,Cranksets
+dim_products_dataset,subcategory,Brakes
+dim_products_dataset,subcategory,Derailleurs
+dim_products_dataset,subcategory,Fenders
+dim_products_dataset,subcategory,Touring Frames
+dim_products_dataset,subcategory,Handlebars
+dim_products_dataset,subcategory,Helmets
+dim_products_dataset,subcategory,Hydration Packs
+dim_products_dataset,subcategory,Jerseys
+dim_products_dataset,subcategory,Tires and Tubes
+dim_products_dataset,subcategory,Bike Racks
+dim_products_dataset,subcategory,Saddles
+dim_products_dataset,subcategory,Bike Stands
+dim_products_dataset,subcategory,Vests
+dim_products_dataset,maintenance,Yes
+dim_products_dataset,maintenance,No
+dim_products_dataset,product_line,Road
+dim_products_dataset,product_line,Mountain
+dim_products_dataset,product_line,Touring
+dim_products_dataset,product_line,Other Sales

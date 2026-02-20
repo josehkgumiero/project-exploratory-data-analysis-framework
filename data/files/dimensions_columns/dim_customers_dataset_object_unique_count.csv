@@ -1,0 +1,7 @@
+dataset,column,unique_value_count
+dim_customers_dataset,customer_number,18484
+dim_customers_dataset,first_name,670
+dim_customers_dataset,last_name,375
+dim_customers_dataset,country,6
+dim_customers_dataset,marital_status,2
+dim_customers_dataset,gender,2

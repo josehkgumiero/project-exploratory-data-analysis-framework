@@ -2,3 +2,118 @@ que titulo eu dou para esse codigo em markdon no notebook:
 
 🔥 Opção 4 — Focado em Framework de EDA
 # Exploratory Data Analysis – Dataset Inventory Engine
+
+
+
+# Project Exploratory Data Analysis
+- ##### Core Dependencies
+- ##### DataFrame ingestions
+    - ##### Dataset Inventory Engine
+    - ##### Dataset Inventory Validation
+    - ##### Test Execution – Dataset Inventory
+    - ##### Dataset Inventory Execution
+    - ##### Dataset Loading Engine
+    - ##### Dataset Loading Validation
+    - ##### Test Execution - Dataset Loading Engine
+    - ##### Dataset Loading Execution
+    - ##### Data Preview Engine
+    - ##### Data Preview Engine Validation
+    - ##### Test Execution - Data Preview Engine
+    - ##### Data Preview Engine Execution
+    - ##### Dataset Registry Engine
+    - ##### Dataset Registry Engine Validation
+    - ##### Test Execution - Dataset Registry Engine
+    - ##### Dataset Registry Engine Execution
+    - ##### Schema Profiling Engine
+    - ##### Schema Profiling Engine Validation
+    - ##### Test Execution - Schema Profiling Engine
+    - ##### Schema Profiling Engine Execution
+    - ##### Column-Level Description for Each DataFrame
+    - ##### Dataset Shape Inspection Engine
+    - ##### Dataset Shape Inspection Engine Validation
+    - ##### Test Execution - Dataset Shape Inspection Engine
+    - ##### Dataset Shape Inspection Engine Execution
+    - ##### Dataset Info Profiler Engine
+    - ##### Dataset Info Profiler Engine Validation
+    - ##### Test Execution - Dataset Info Profiler Engine
+    - ##### Dataset Info Profiler Engine Execution
+- ##### DataFrame Transformations
+    - ##### Merge and Concat DataFrames
+        - #####
+        - #####
+        - #####
+        - #####
+        - #####
+        - #####
+        - #####
+        - #####
+    - ##### Mixed Data Type
+        - ##### Date Column Profiling Engine
+        - ##### Date Column Profiling Engine Validation
+        - ##### Test Execution - Date Column Profiling Engine
+        - ##### Date Column Profiling Engine Execution
+        - ##### Date Type Converter Engine
+        - ##### Date Type Converter Engine Validation
+        - ##### Test Execution - Date Type Converter Engine
+        - ##### Date Type Converter Engine Execution
+        - ##### Cost Column Profiling Engine
+        - ##### Cost Column Profiling Engine Validation
+        - ##### Test Execution - Cost Column Profiling Engine
+        - ##### Cost Column Profiling Engine Execution
+        - ##### Cost Type Converter Engine
+        - ##### Cost Type Converter Engine Validation
+        - ##### Test Execution - Cost Type Converter Engine
+        - ##### Cost Type Converter Engine Execution
+    - ##### Duplicated Data
+        - ##### Duplicate Removal Engine
+        - ##### Duplicate Removal Engine Validation
+        - ##### Test Execution - Duplicate Removal Engine
+        - ##### Duplicate Removal Engine Execution
+    - ##### Missing Data
+        - ##### Missing Values Analyzer Engine
+        - ##### Missing Values Analyzer Engine Validation
+        - ##### Test Execution - Missing Values Analyzer Engine
+        - ##### Missing Values Analyzer Engine Execution
+        - ##### Missing Data Plotter Engine
+        - ##### Missing Data Plotter Engine Vaidation
+        - ##### Test Execution - Missing Data Plotter Engine
+        - ##### Missing Data Plotter Engine Execution
+        - ##### Dataset Simple Inputer Engine
+        - ##### Dataset Simple Inputer Engine Validation
+        - ##### Test Execution - Dataset Simple Inputer Engine
+        - ##### Dataset Simple Inputer Engine Execution
+    - ##### DIMENSION x MEASURE
+        - ##### Dimension Column Profiler Engine
+        - ##### Dimension Column Profiler Engine Validation
+        - ##### Test Execution - Dimension Column Profiler Engine
+        - ##### Dimension Column Profiler Engine Execution
+        - ##### Unique Value Extractor Engine
+        - ##### Unique Value Extractor Engine Validation
+        - ##### Test Execution - Unique Value Extractor Engine
+        - ##### Unique Value Extractor Engine Execution
+        - ##### Unique Value Count Extractor Engine Execution
+        - ##### Count the Dataset in the Dictionary
+        - ##### 
+        - #####
+        - #####
+        - #####
+        - #####
+        - #####
+        - #####
+        - #####
+        - #####
+        - #####
+        - #####
+        - #####
+        - #####
+        - #####
+        - #####
+        - #####
+        - #####
+        - #####
+        - #####
+        - #####
+        - #####
+        - #####
+        - #####
+        - #####

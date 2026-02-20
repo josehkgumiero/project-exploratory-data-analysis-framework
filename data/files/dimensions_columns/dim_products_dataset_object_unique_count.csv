@@ -1,0 +1,8 @@
+dataset,column,unique_value_count
+dim_products_dataset,product_number,295
+dim_products_dataset,product_name,295
+dim_products_dataset,category_id,37
+dim_products_dataset,category,4
+dim_products_dataset,subcategory,36
+dim_products_dataset,maintenance,2
+dim_products_dataset,product_line,4

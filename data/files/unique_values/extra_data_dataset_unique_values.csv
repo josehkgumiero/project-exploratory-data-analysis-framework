@@ -1,0 +1,89 @@
+column,value
+country,Sweden
+country,France
+country,Portugal
+country,Spain
+country,Finland
+country,UK
+order_value_EUR,17524.02
+order_value_EUR,64827.8
+order_value_EUR,71620.08
+order_value_EUR,74532.02
+order_value_EUR,78461.13
+order_value_EUR,84900.24
+order_value_EUR,116563.4
+order_value_EUR,156585.22
+order_value_EUR,178763.42
+order_value_EUR,296685.56
+cost,14122.61
+cost,56043.63
+cost,62245.01
+cost,59752.32
+cost,63537.82
+cost,73701.9
+cost,92807.78
+cost,126599.15
+cost,146621.76
+cost,257480.34
+date,2020-12-02 00:00:00
+date,2019-01-20 00:00:00
+date,2019-05-02 00:00:00
+date,2020-02-04 00:00:00
+date,2020-10-05 00:00:00
+date,2020-07-14 00:00:00
+date,2019-09-26 00:00:00
+date,2020-08-30 00:00:00
+date,2019-12-22 00:00:00
+date,2019-11-07 00:00:00
+category,Books
+category,Appliances
+category,Beauty
+category,Clothing
+category,Games
+category,Accessories
+customer_name,Goldner-Dibbert
+customer_name,Gislason-Stanton
+customer_name,Schoen-Keeling
+customer_name,Hessel-Stiedemann
+customer_name,"Farrell, Swaniawski and Crist"
+customer_name,Hilll-Vandervort
+customer_name,"Hermiston, Simonis and Wisoky"
+customer_name,Johns and Sons
+customer_name,Larkin-Collier
+sales_manager,Maxie Marrow
+sales_manager,Othello Bowes
+sales_manager,Celine Tumasian
+sales_manager,Emalia Dinse
+sales_manager,Hube Corey
+sales_manager,Jessamine Apark
+sales_rep,Madelon Bront
+sales_rep,Maighdiln Upcraft
+sales_rep,Smitty Culverhouse
+sales_rep,Aurelie Wren
+sales_rep,Perri Aldersley
+sales_rep,Wat Bowkley
+sales_rep,Winny Agnolo
+sales_rep,Bertha Walbrook
+device_type,Mobile
+device_type,PC
+device_type,Tablet
+order_id,70-0511466
+order_id,62-3312495
+order_id,69-6259390
+order_id,14-6700183
+order_id,91-4126746
+order_id,60-6998932
+order_id,28-6585323
+order_id,64-5761908
+order_id,15-8765160
+order_id,58-7703341
+refund,7964.0
+refund,4974.0
+refund,2809.0
+refund,4260.0
+refund,6038.0
+refund,7598.0
+refund,2928.0
+refund,9376.0
+refund,5153.0
+refund,3955.0

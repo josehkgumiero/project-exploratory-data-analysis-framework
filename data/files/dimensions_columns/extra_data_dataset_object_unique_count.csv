@@ -1,0 +1,8 @@
+dataset,column,unique_value_count
+extra_data_dataset,country,6
+extra_data_dataset,category,6
+extra_data_dataset,customer_name,9
+extra_data_dataset,sales_manager,6
+extra_data_dataset,sales_rep,8
+extra_data_dataset,device_type,3
+extra_data_dataset,order_id,10

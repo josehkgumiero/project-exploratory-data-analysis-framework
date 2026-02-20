@@ -1,0 +1,11 @@
+column,unique_value_count
+category,10
+cost,999
+country,15
+customer_name,75
+date,536
+device_type,3
+order_id,1000
+order_value_EUR,995
+sales_manager,15
+sales_rep,35

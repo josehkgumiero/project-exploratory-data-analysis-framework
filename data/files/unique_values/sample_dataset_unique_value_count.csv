@@ -1,0 +1,32 @@
+column,unique_value_count
+area error,3
+compactness error,436
+concave points error,457
+concavity error,362
+fractal dimension error,400
+mean area,383
+mean compactness,460
+mean concave points,369
+mean concavity,417
+mean fractal dimension,445
+mean perimeter,472
+mean radius,395
+mean smoothness,337
+mean symmetry,374
+mean texture,420
+perimeter error,365
+radius error,459
+smoothness error,475
+symmetry error,432
+target,2
+texture error,403
+worst area,492
+worst compactness,445
+worst concave points,434
+worst concavity,483
+worst fractal dimension,447
+worst perimeter,426
+worst radius,392
+worst smoothness,358
+worst symmetry,375
+worst texture,383

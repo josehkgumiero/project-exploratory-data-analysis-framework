@@ -1,0 +1,12 @@
+column,unique_value_count
+category,6
+cost,10
+country,6
+customer_name,9
+date,10
+device_type,3
+order_id,10
+order_value_EUR,10
+refund,10
+sales_manager,6
+sales_rep,8

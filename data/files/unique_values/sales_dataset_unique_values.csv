@@ -1,0 +1,3684 @@
+column,value
+country,Sweden
+country,France
+country,Portugal
+country,Italy
+country,Germany
+country,Luxembourg
+country,UK
+country,Bulgaria
+country,Finland
+country,Spain
+country,Ireland
+country,Denmark
+country,Netherlands
+country,Belgium
+country,Austria
+order_value_EUR,98320.37
+order_value_EUR,46296.26
+order_value_EUR,140337.34
+order_value_EUR,203604.46
+order_value_EUR,127075.41
+order_value_EUR,69681.43
+order_value_EUR,96795.99
+order_value_EUR,144725.34
+order_value_EUR,32695.37
+order_value_EUR,121318.55
+order_value_EUR,147092.62
+order_value_EUR,187874.45
+order_value_EUR,256603.66
+order_value_EUR,69626.39
+order_value_EUR,153029.72
+order_value_EUR,65193.88
+order_value_EUR,15817.05
+order_value_EUR,54079.04
+order_value_EUR,168757.23
+order_value_EUR,101923.36
+order_value_EUR,89160.66
+order_value_EUR,77128.75
+order_value_EUR,63979.04
+order_value_EUR,83897.88
+order_value_EUR,121928.48
+order_value_EUR,149376.26
+order_value_EUR,138127.81
+order_value_EUR,206869.73
+order_value_EUR,122627.2
+order_value_EUR,92698.45
+order_value_EUR,173456.4
+order_value_EUR,94085.5
+order_value_EUR,60068.71
+order_value_EUR,58416.81
+order_value_EUR,239423.57
+order_value_EUR,53801.73
+order_value_EUR,180519.86
+order_value_EUR,100469.75
+order_value_EUR,128221.13
+order_value_EUR,164971.7
+order_value_EUR,92868.37
+order_value_EUR,145439.65
+order_value_EUR,151632.33
+order_value_EUR,159514.03
+order_value_EUR,106115.85
+order_value_EUR,86704.08
+order_value_EUR,48946.74
+order_value_EUR,54078.92
+order_value_EUR,26899.97
+order_value_EUR,149500.61
+order_value_EUR,127946.33
+order_value_EUR,61994.02
+order_value_EUR,39110.97
+order_value_EUR,74532.02
+order_value_EUR,60592.4
+order_value_EUR,81358.58
+order_value_EUR,117538.82
+order_value_EUR,56811.14
+order_value_EUR,163967.89
+order_value_EUR,159057.92
+order_value_EUR,163203.64
+order_value_EUR,249099.44
+order_value_EUR,108412.76
+order_value_EUR,158362.33
+order_value_EUR,171884.0
+order_value_EUR,22164.96
+order_value_EUR,178304.35
+order_value_EUR,38494.71
+order_value_EUR,116157.89
+order_value_EUR,56118.05
+order_value_EUR,161773.31
+order_value_EUR,263571.82
+order_value_EUR,41805.53
+order_value_EUR,93902.04
+order_value_EUR,310539.0
+order_value_EUR,82357.57
+order_value_EUR,50585.98
+order_value_EUR,33190.03
+order_value_EUR,78293.94
+order_value_EUR,64762.89
+order_value_EUR,184221.2
+order_value_EUR,134908.19
+order_value_EUR,122139.94
+order_value_EUR,361182.87
+order_value_EUR,79313.86
+order_value_EUR,151315.26
+order_value_EUR,52805.94
+order_value_EUR,69750.57
+order_value_EUR,228961.3
+order_value_EUR,148405.47
+order_value_EUR,95960.77
+order_value_EUR,105374.44
+order_value_EUR,83340.04
+order_value_EUR,183363.6
+order_value_EUR,290551.74
+order_value_EUR,80781.62
+order_value_EUR,123672.7
+order_value_EUR,111639.29
+order_value_EUR,149956.93
+order_value_EUR,167615.14
+order_value_EUR,84877.87
+order_value_EUR,65831.42
+order_value_EUR,80719.44
+order_value_EUR,146325.53
+order_value_EUR,30177.8
+order_value_EUR,135662.46
+order_value_EUR,102918.09
+order_value_EUR,138764.6
+order_value_EUR,106142.65
+order_value_EUR,250315.06
+order_value_EUR,162199.24
+order_value_EUR,186209.44
+order_value_EUR,116774.43
+order_value_EUR,69017.42
+order_value_EUR,27400.69
+order_value_EUR,75483.45
+order_value_EUR,89376.84
+order_value_EUR,150135.0
+order_value_EUR,34930.08
+order_value_EUR,122889.28
+order_value_EUR,48179.57
+order_value_EUR,74480.56
+order_value_EUR,27987.13
+order_value_EUR,159294.28
+order_value_EUR,37582.13
+order_value_EUR,104743.22
+order_value_EUR,151012.12
+order_value_EUR,233858.47
+order_value_EUR,83097.4
+order_value_EUR,68745.86
+order_value_EUR,99887.86
+order_value_EUR,212521.26
+order_value_EUR,161217.16
+order_value_EUR,78542.59
+order_value_EUR,90559.16
+order_value_EUR,240940.97
+order_value_EUR,133754.65
+order_value_EUR,17524.02
+order_value_EUR,57927.54
+order_value_EUR,100978.49
+order_value_EUR,36070.76
+order_value_EUR,104711.22
+order_value_EUR,90994.31
+order_value_EUR,105277.2
+order_value_EUR,194962.05
+order_value_EUR,85515.6
+order_value_EUR,84035.82
+order_value_EUR,93996.68
+order_value_EUR,31161.76
+order_value_EUR,148359.68
+order_value_EUR,71119.23
+order_value_EUR,141965.11
+order_value_EUR,127994.87
+order_value_EUR,106325.72
+order_value_EUR,78679.6
+order_value_EUR,37073.91
+order_value_EUR,108968.67
+order_value_EUR,174262.11
+order_value_EUR,47516.54
+order_value_EUR,61374.06
+order_value_EUR,83904.32
+order_value_EUR,120152.33
+order_value_EUR,60917.85
+order_value_EUR,170457.8
+order_value_EUR,88684.7
+order_value_EUR,120012.56
+order_value_EUR,118027.37
+order_value_EUR,141552.4
+order_value_EUR,67161.99
+order_value_EUR,250483.63
+order_value_EUR,26103.94
+order_value_EUR,98322.98
+order_value_EUR,104391.93
+order_value_EUR,91540.03
+order_value_EUR,78057.96
+order_value_EUR,77896.83
+order_value_EUR,141796.75
+order_value_EUR,201537.12
+order_value_EUR,125099.05
+order_value_EUR,26490.47
+order_value_EUR,160185.99
+order_value_EUR,87459.79
+order_value_EUR,29443.71
+order_value_EUR,151151.77
+order_value_EUR,155044.02
+order_value_EUR,57227.99
+order_value_EUR,249842.77
+order_value_EUR,109390.57
+order_value_EUR,120763.23
+order_value_EUR,177464.83
+order_value_EUR,251587.2
+order_value_EUR,62567.58
+order_value_EUR,234340.31
+order_value_EUR,148243.05
+order_value_EUR,90602.07
+order_value_EUR,36181.81
+order_value_EUR,81262.34
+order_value_EUR,121736.23
+order_value_EUR,131839.16
+order_value_EUR,47182.43
+order_value_EUR,36321.68
+order_value_EUR,82116.31
+order_value_EUR,77087.84
+order_value_EUR,94115.99
+order_value_EUR,60301.96
+order_value_EUR,66146.57
+order_value_EUR,134120.38
+order_value_EUR,137306.45
+order_value_EUR,132632.97
+order_value_EUR,73981.77
+order_value_EUR,93007.22
+order_value_EUR,147672.87
+order_value_EUR,53593.86
+order_value_EUR,110092.84
+order_value_EUR,174380.2
+order_value_EUR,55804.05
+order_value_EUR,78938.82
+order_value_EUR,124593.04
+order_value_EUR,126682.79
+order_value_EUR,86077.83
+order_value_EUR,131409.9
+order_value_EUR,123562.02
+order_value_EUR,214983.15
+order_value_EUR,135629.36
+order_value_EUR,38648.72
+order_value_EUR,136324.9
+order_value_EUR,113586.11
+order_value_EUR,67611.54
+order_value_EUR,143322.47
+order_value_EUR,171748.56
+order_value_EUR,50516.2
+order_value_EUR,76856.57
+order_value_EUR,125280.28
+order_value_EUR,184431.48
+order_value_EUR,102255.86
+order_value_EUR,101318.72
+order_value_EUR,83226.45
+order_value_EUR,129485.51
+order_value_EUR,177802.7
+order_value_EUR,44038.31
+order_value_EUR,113781.45
+order_value_EUR,312928.72
+order_value_EUR,65397.28
+order_value_EUR,250488.42
+order_value_EUR,111523.01
+order_value_EUR,271411.92
+order_value_EUR,83141.47
+order_value_EUR,126523.36
+order_value_EUR,95410.97
+order_value_EUR,136079.62
+order_value_EUR,25907.52
+order_value_EUR,180515.09
+order_value_EUR,28538.19
+order_value_EUR,162142.74
+order_value_EUR,37520.09
+order_value_EUR,230765.62
+order_value_EUR,26713.46
+order_value_EUR,56763.04
+order_value_EUR,18326.41
+order_value_EUR,69871.92
+order_value_EUR,106516.4
+order_value_EUR,53849.12
+order_value_EUR,99989.89
+order_value_EUR,132760.25
+order_value_EUR,120831.28
+order_value_EUR,80474.78
+order_value_EUR,222379.49
+order_value_EUR,173944.47
+order_value_EUR,107359.01
+order_value_EUR,106730.16
+order_value_EUR,40544.43
+order_value_EUR,144204.86
+order_value_EUR,238659.41
+order_value_EUR,16388.9
+order_value_EUR,55166.78
+order_value_EUR,46849.71
+order_value_EUR,294472.77
+order_value_EUR,80294.56
+order_value_EUR,56823.17
+order_value_EUR,72314.73
+order_value_EUR,241782.39
+order_value_EUR,152522.94
+order_value_EUR,98521.87
+order_value_EUR,108920.56
+order_value_EUR,74732.79
+order_value_EUR,152676.77
+order_value_EUR,63196.98
+order_value_EUR,172444.09
+order_value_EUR,78013.63
+order_value_EUR,84712.13
+order_value_EUR,28859.73
+order_value_EUR,71360.36
+order_value_EUR,161212.39
+order_value_EUR,124668.36
+order_value_EUR,186397.6
+order_value_EUR,153823.74
+order_value_EUR,169544.95
+order_value_EUR,58010.14
+order_value_EUR,58933.16
+order_value_EUR,165631.75
+order_value_EUR,76543.36
+order_value_EUR,82697.53
+order_value_EUR,135211.42
+order_value_EUR,142353.07
+order_value_EUR,156177.77
+order_value_EUR,99832.12
+order_value_EUR,176662.26
+order_value_EUR,156839.31
+order_value_EUR,74685.85
+order_value_EUR,127830.38
+order_value_EUR,132246.48
+order_value_EUR,102073.04
+order_value_EUR,18897.97
+order_value_EUR,144072.9
+order_value_EUR,28755.32
+order_value_EUR,161630.62
+order_value_EUR,234961.46
+order_value_EUR,38536.92
+order_value_EUR,46857.77
+order_value_EUR,177215.51
+order_value_EUR,149938.36
+order_value_EUR,157683.41
+order_value_EUR,91108.56
+order_value_EUR,165259.58
+order_value_EUR,223233.32
+order_value_EUR,84767.77
+order_value_EUR,144530.35
+order_value_EUR,178560.1
+order_value_EUR,96669.92
+order_value_EUR,35289.75
+order_value_EUR,159216.47
+order_value_EUR,32779.67
+order_value_EUR,64192.86
+order_value_EUR,47771.76
+order_value_EUR,126979.62
+order_value_EUR,46311.34
+order_value_EUR,92877.57
+order_value_EUR,86854.64
+order_value_EUR,68802.13
+order_value_EUR,103726.57
+order_value_EUR,165262.34
+order_value_EUR,72385.53
+order_value_EUR,31627.37
+order_value_EUR,232217.05
+order_value_EUR,99319.33
+order_value_EUR,125499.82
+order_value_EUR,66884.7
+order_value_EUR,20226.11
+order_value_EUR,50618.21
+order_value_EUR,39313.39
+order_value_EUR,146055.05
+order_value_EUR,53093.47
+order_value_EUR,176190.16
+order_value_EUR,64827.8
+order_value_EUR,123953.65
+order_value_EUR,19622.59
+order_value_EUR,146540.75
+order_value_EUR,139075.59
+order_value_EUR,131864.04
+order_value_EUR,130251.55
+order_value_EUR,38930.16
+order_value_EUR,219911.81
+order_value_EUR,49930.87
+order_value_EUR,57859.08
+order_value_EUR,26745.94
+order_value_EUR,87205.01
+order_value_EUR,216863.04
+order_value_EUR,154858.0
+order_value_EUR,167301.52
+order_value_EUR,38750.53
+order_value_EUR,145809.65
+order_value_EUR,161823.46
+order_value_EUR,175332.04
+order_value_EUR,97148.34
+order_value_EUR,146226.36
+order_value_EUR,139200.81
+order_value_EUR,84900.24
+order_value_EUR,138443.23
+order_value_EUR,62708.6
+order_value_EUR,134807.18
+order_value_EUR,108689.45
+order_value_EUR,111551.96
+order_value_EUR,89930.18
+order_value_EUR,50241.47
+order_value_EUR,76767.77
+order_value_EUR,60744.83
+order_value_EUR,122468.33
+order_value_EUR,74958.46
+order_value_EUR,66678.38
+order_value_EUR,56106.13
+order_value_EUR,64842.92
+order_value_EUR,45481.24
+order_value_EUR,107271.94
+order_value_EUR,42847.46
+order_value_EUR,108978.79
+order_value_EUR,133905.55
+order_value_EUR,65014.84
+order_value_EUR,113763.38
+order_value_EUR,294874.74
+order_value_EUR,73860.57
+order_value_EUR,182852.21
+order_value_EUR,163546.81
+order_value_EUR,56768.43
+order_value_EUR,143107.89
+order_value_EUR,115339.49
+order_value_EUR,117358.02
+order_value_EUR,54446.5
+order_value_EUR,152771.9
+order_value_EUR,211872.69
+order_value_EUR,77043.84
+order_value_EUR,353925.06
+order_value_EUR,176080.36
+order_value_EUR,180250.02
+order_value_EUR,157754.36
+order_value_EUR,87321.89
+order_value_EUR,40467.85
+order_value_EUR,160763.9
+order_value_EUR,156505.37
+order_value_EUR,118030.7
+order_value_EUR,15100.57
+order_value_EUR,105833.52
+order_value_EUR,43609.57
+order_value_EUR,165709.19
+order_value_EUR,57367.93
+order_value_EUR,222700.23
+order_value_EUR,97514.7
+order_value_EUR,99064.31
+order_value_EUR,254883.03
+order_value_EUR,154078.75
+order_value_EUR,168178.03
+order_value_EUR,99132.04
+order_value_EUR,292124.64
+order_value_EUR,37081.31
+order_value_EUR,176114.73
+order_value_EUR,33724.53
+order_value_EUR,194531.02
+order_value_EUR,171458.64
+order_value_EUR,97641.25
+order_value_EUR,150287.47
+order_value_EUR,156585.22
+order_value_EUR,66225.71
+order_value_EUR,167935.31
+order_value_EUR,35437.89
+order_value_EUR,133072.0
+order_value_EUR,95307.21
+order_value_EUR,36534.09
+order_value_EUR,98746.66
+order_value_EUR,133057.07
+order_value_EUR,197581.29
+order_value_EUR,93153.98
+order_value_EUR,53181.88
+order_value_EUR,112491.58
+order_value_EUR,56570.64
+order_value_EUR,134243.39
+order_value_EUR,127482.28
+order_value_EUR,155827.3
+order_value_EUR,115538.34
+order_value_EUR,45725.53
+order_value_EUR,57292.84
+order_value_EUR,166367.16
+order_value_EUR,75264.84
+order_value_EUR,77855.47
+order_value_EUR,119409.43
+order_value_EUR,85337.78
+order_value_EUR,100094.97
+order_value_EUR,293767.28
+order_value_EUR,207379.28
+order_value_EUR,56717.53
+order_value_EUR,195214.72
+order_value_EUR,110441.89
+order_value_EUR,112909.4
+order_value_EUR,290010.79
+order_value_EUR,108713.83
+order_value_EUR,110837.96
+order_value_EUR,178027.46
+order_value_EUR,57345.79
+order_value_EUR,63298.61
+order_value_EUR,28328.78
+order_value_EUR,169262.2
+order_value_EUR,67594.1
+order_value_EUR,143658.22
+order_value_EUR,33210.56
+order_value_EUR,21341.66
+order_value_EUR,129353.22
+order_value_EUR,28783.05
+order_value_EUR,165747.2
+order_value_EUR,87355.7
+order_value_EUR,66391.58
+order_value_EUR,43066.58
+order_value_EUR,109713.84
+order_value_EUR,43008.69
+order_value_EUR,40187.99
+order_value_EUR,84224.98
+order_value_EUR,57276.26
+order_value_EUR,172340.86
+order_value_EUR,25816.05
+order_value_EUR,238850.25
+order_value_EUR,118061.05
+order_value_EUR,121043.69
+order_value_EUR,24787.65
+order_value_EUR,86628.32
+order_value_EUR,154936.24
+order_value_EUR,36183.97
+order_value_EUR,71079.8
+order_value_EUR,111676.46
+order_value_EUR,137026.71
+order_value_EUR,84537.2
+order_value_EUR,140352.81
+order_value_EUR,71620.08
+order_value_EUR,227830.33
+order_value_EUR,235042.75
+order_value_EUR,50303.66
+order_value_EUR,131097.05
+order_value_EUR,204138.34
+order_value_EUR,37273.84
+order_value_EUR,109697.86
+order_value_EUR,42475.6
+order_value_EUR,81412.1
+order_value_EUR,126074.62
+order_value_EUR,80867.18
+order_value_EUR,149486.27
+order_value_EUR,111106.06
+order_value_EUR,115689.22
+order_value_EUR,147994.63
+order_value_EUR,122998.65
+order_value_EUR,79833.6
+order_value_EUR,90228.68
+order_value_EUR,68086.96
+order_value_EUR,172202.38
+order_value_EUR,144640.8
+order_value_EUR,152747.92
+order_value_EUR,48890.14
+order_value_EUR,177919.14
+order_value_EUR,68984.17
+order_value_EUR,230669.37
+order_value_EUR,91561.49
+order_value_EUR,89502.53
+order_value_EUR,116023.51
+order_value_EUR,83119.87
+order_value_EUR,126974.92
+order_value_EUR,40535.64
+order_value_EUR,88329.48
+order_value_EUR,42290.45
+order_value_EUR,100578.6
+order_value_EUR,138153.7
+order_value_EUR,120332.26
+order_value_EUR,85294.3
+order_value_EUR,110878.97
+order_value_EUR,77278.68
+order_value_EUR,141112.84
+order_value_EUR,173722.59
+order_value_EUR,47680.2
+order_value_EUR,50495.53
+order_value_EUR,114427.36
+order_value_EUR,44147.92
+order_value_EUR,37397.43
+order_value_EUR,168773.6
+order_value_EUR,71049.09
+order_value_EUR,62788.04
+order_value_EUR,249915.21
+order_value_EUR,178189.57
+order_value_EUR,103839.74
+order_value_EUR,55132.39
+order_value_EUR,163492.16
+order_value_EUR,36644.05
+order_value_EUR,43158.94
+order_value_EUR,227856.66
+order_value_EUR,162637.68
+order_value_EUR,304337.49
+order_value_EUR,63690.72
+order_value_EUR,43243.45
+order_value_EUR,21921.66
+order_value_EUR,115151.22
+order_value_EUR,69565.47
+order_value_EUR,42028.45
+order_value_EUR,78461.13
+order_value_EUR,197471.1
+order_value_EUR,119937.47
+order_value_EUR,106076.67
+order_value_EUR,75522.66
+order_value_EUR,119769.22
+order_value_EUR,168197.78
+order_value_EUR,68773.03
+order_value_EUR,62272.96
+order_value_EUR,165118.74
+order_value_EUR,122035.93
+order_value_EUR,117733.51
+order_value_EUR,240759.07
+order_value_EUR,147895.45
+order_value_EUR,205059.8
+order_value_EUR,81482.69
+order_value_EUR,168226.52
+order_value_EUR,201573.23
+order_value_EUR,172989.17
+order_value_EUR,158240.24
+order_value_EUR,173478.65
+order_value_EUR,174271.91
+order_value_EUR,55539.67
+order_value_EUR,57120.58
+order_value_EUR,36749.51
+order_value_EUR,19949.11
+order_value_EUR,105522.72
+order_value_EUR,131018.65
+order_value_EUR,56705.66
+order_value_EUR,148212.23
+order_value_EUR,138175.53
+order_value_EUR,135424.06
+order_value_EUR,58921.31
+order_value_EUR,74273.54
+order_value_EUR,116469.33
+order_value_EUR,149514.0
+order_value_EUR,161192.45
+order_value_EUR,84194.21
+order_value_EUR,163401.23
+order_value_EUR,131610.37
+order_value_EUR,110090.36
+order_value_EUR,169629.55
+order_value_EUR,185778.3
+order_value_EUR,147656.52
+order_value_EUR,296844.24
+order_value_EUR,179323.22
+order_value_EUR,203231.73
+order_value_EUR,157942.65
+order_value_EUR,102771.44
+order_value_EUR,41921.61
+order_value_EUR,107232.99
+order_value_EUR,45261.84
+order_value_EUR,74103.82
+order_value_EUR,263713.12
+order_value_EUR,80839.75
+order_value_EUR,144927.17
+order_value_EUR,30550.32
+order_value_EUR,173829.96
+order_value_EUR,76652.73
+order_value_EUR,164243.32
+order_value_EUR,152865.34
+order_value_EUR,119819.37
+order_value_EUR,190100.96
+order_value_EUR,39287.29
+order_value_EUR,105340.85
+order_value_EUR,57333.85
+order_value_EUR,57348.43
+order_value_EUR,24543.72
+order_value_EUR,30166.93
+order_value_EUR,253580.08
+order_value_EUR,57115.99
+order_value_EUR,72002.26
+order_value_EUR,255216.0
+order_value_EUR,42239.66
+order_value_EUR,139682.07
+order_value_EUR,105678.39
+order_value_EUR,85156.7
+order_value_EUR,51090.76
+order_value_EUR,308763.51
+order_value_EUR,138249.77
+order_value_EUR,42611.78
+order_value_EUR,141436.98
+order_value_EUR,41016.31
+order_value_EUR,144237.38
+order_value_EUR,91350.76
+order_value_EUR,31936.44
+order_value_EUR,79205.19
+order_value_EUR,111462.88
+order_value_EUR,85220.83
+order_value_EUR,89639.28
+order_value_EUR,116556.81
+order_value_EUR,179184.12
+order_value_EUR,55882.12
+order_value_EUR,68288.68
+order_value_EUR,102299.92
+order_value_EUR,264149.91
+order_value_EUR,54566.99
+order_value_EUR,242192.19
+order_value_EUR,74364.46
+order_value_EUR,164117.24
+order_value_EUR,40831.52
+order_value_EUR,178763.42
+order_value_EUR,152231.86
+order_value_EUR,96358.45
+order_value_EUR,116328.75
+order_value_EUR,79288.03
+order_value_EUR,50374.22
+order_value_EUR,135344.52
+order_value_EUR,112481.44
+order_value_EUR,41675.01
+order_value_EUR,173418.59
+order_value_EUR,146076.81
+order_value_EUR,179179.73
+order_value_EUR,126021.1
+order_value_EUR,33013.08
+order_value_EUR,156453.01
+order_value_EUR,165696.9
+order_value_EUR,274242.36
+order_value_EUR,97063.22
+order_value_EUR,174919.64
+order_value_EUR,77522.57
+order_value_EUR,55790.71
+order_value_EUR,127591.73
+order_value_EUR,101846.87
+order_value_EUR,118021.59
+order_value_EUR,66613.31
+order_value_EUR,91842.59
+order_value_EUR,108158.8
+order_value_EUR,38982.26
+order_value_EUR,181882.43
+order_value_EUR,59163.79
+order_value_EUR,94925.0
+order_value_EUR,79088.7
+order_value_EUR,164267.72
+order_value_EUR,156110.4
+order_value_EUR,80013.81
+order_value_EUR,57347.48
+order_value_EUR,99518.86
+order_value_EUR,104152.15
+order_value_EUR,172505.24
+order_value_EUR,48763.58
+order_value_EUR,65760.39
+order_value_EUR,200472.46
+order_value_EUR,86071.63
+order_value_EUR,53957.42
+order_value_EUR,235608.66
+order_value_EUR,52388.85
+order_value_EUR,133055.04
+order_value_EUR,52227.07
+order_value_EUR,124534.96
+order_value_EUR,174951.18
+order_value_EUR,76943.74
+order_value_EUR,81095.39
+order_value_EUR,40385.45
+order_value_EUR,161544.06
+order_value_EUR,37892.58
+order_value_EUR,78540.62
+order_value_EUR,82525.61
+order_value_EUR,86083.27
+order_value_EUR,97439.36
+order_value_EUR,70657.26
+order_value_EUR,155766.23
+order_value_EUR,48922.42
+order_value_EUR,157007.52
+order_value_EUR,40728.28
+order_value_EUR,152442.32
+order_value_EUR,158011.3
+order_value_EUR,65211.07
+order_value_EUR,42814.57
+order_value_EUR,118409.59
+order_value_EUR,33617.03
+order_value_EUR,205582.75
+order_value_EUR,80431.34
+order_value_EUR,75912.59
+order_value_EUR,145558.0
+order_value_EUR,59670.68
+order_value_EUR,89830.34
+order_value_EUR,103638.67
+order_value_EUR,123424.43
+order_value_EUR,86050.61
+order_value_EUR,119156.18
+order_value_EUR,99731.4
+order_value_EUR,101321.52
+order_value_EUR,53485.0
+order_value_EUR,200635.57
+order_value_EUR,242526.0
+order_value_EUR,57913.36
+order_value_EUR,325331.99
+order_value_EUR,40148.49
+order_value_EUR,59043.39
+order_value_EUR,72757.01
+order_value_EUR,74295.81
+order_value_EUR,172397.66
+order_value_EUR,137562.42
+order_value_EUR,109562.5
+order_value_EUR,73727.91
+order_value_EUR,152370.57
+order_value_EUR,174392.33
+order_value_EUR,271465.15
+order_value_EUR,111557.68
+order_value_EUR,87513.27
+order_value_EUR,107586.21
+order_value_EUR,34771.79
+order_value_EUR,168530.22
+order_value_EUR,166380.74
+order_value_EUR,170408.23
+order_value_EUR,92179.76
+order_value_EUR,204484.61
+order_value_EUR,27824.83
+order_value_EUR,194326.7
+order_value_EUR,59691.71
+order_value_EUR,256388.08
+order_value_EUR,84598.68
+order_value_EUR,116206.87
+order_value_EUR,74231.25
+order_value_EUR,80328.16
+order_value_EUR,32661.62
+order_value_EUR,85223.07
+order_value_EUR,39457.34
+order_value_EUR,87085.71
+order_value_EUR,130242.41
+order_value_EUR,74790.02
+order_value_EUR,79874.42
+order_value_EUR,19814.86
+order_value_EUR,203958.16
+order_value_EUR,65822.05
+order_value_EUR,58416.11
+order_value_EUR,59378.97
+order_value_EUR,73773.6
+order_value_EUR,44029.07
+order_value_EUR,51504.5
+order_value_EUR,56068.7
+order_value_EUR,129022.02
+order_value_EUR,123751.91
+order_value_EUR,153011.39
+order_value_EUR,44232.84
+order_value_EUR,51416.24
+order_value_EUR,78629.19
+order_value_EUR,95566.43
+order_value_EUR,123272.44
+order_value_EUR,34748.75
+order_value_EUR,109892.92
+order_value_EUR,177993.88
+order_value_EUR,243176.92
+order_value_EUR,31966.82
+order_value_EUR,64053.77
+order_value_EUR,36747.24
+order_value_EUR,116548.17
+order_value_EUR,98963.03
+order_value_EUR,126409.18
+order_value_EUR,124537.47
+order_value_EUR,159052.7
+order_value_EUR,58948.52
+order_value_EUR,37636.91
+order_value_EUR,149372.32
+order_value_EUR,124234.91
+order_value_EUR,120453.52
+order_value_EUR,50796.04
+order_value_EUR,116563.4
+order_value_EUR,19366.75
+order_value_EUR,96613.06
+order_value_EUR,296465.56
+order_value_EUR,35619.28
+order_value_EUR,133985.91
+order_value_EUR,119858.15
+order_value_EUR,85390.17
+order_value_EUR,124611.61
+order_value_EUR,161984.91
+order_value_EUR,76183.74
+order_value_EUR,112228.82
+order_value_EUR,97291.62
+order_value_EUR,131402.37
+order_value_EUR,173258.94
+order_value_EUR,72857.41
+order_value_EUR,99114.91
+order_value_EUR,102495.13
+order_value_EUR,119820.82
+order_value_EUR,66141.13
+order_value_EUR,149938.71
+order_value_EUR,124093.76
+order_value_EUR,98915.41
+order_value_EUR,141948.11
+order_value_EUR,162123.74
+order_value_EUR,44118.5
+order_value_EUR,85237.91
+order_value_EUR,65036.81
+order_value_EUR,49990.72
+order_value_EUR,47186.74
+order_value_EUR,148037.71
+order_value_EUR,137419.3
+order_value_EUR,177867.3
+order_value_EUR,25834.34
+order_value_EUR,127143.54
+order_value_EUR,166507.76
+order_value_EUR,125851.79
+order_value_EUR,117288.29
+order_value_EUR,121246.32
+order_value_EUR,28787.17
+order_value_EUR,36276.11
+order_value_EUR,127631.89
+order_value_EUR,118982.14
+order_value_EUR,122273.0
+order_value_EUR,127939.8
+order_value_EUR,107716.72
+order_value_EUR,80986.1
+order_value_EUR,61325.25
+order_value_EUR,95387.89
+order_value_EUR,284298.56
+order_value_EUR,118026.37
+order_value_EUR,105464.41
+order_value_EUR,123891.6
+order_value_EUR,79375.17
+order_value_EUR,128235.65
+order_value_EUR,121292.94
+order_value_EUR,254021.98
+order_value_EUR,154950.74
+order_value_EUR,165305.7
+order_value_EUR,49374.25
+order_value_EUR,169810.63
+order_value_EUR,47082.67
+order_value_EUR,81458.94
+order_value_EUR,128112.26
+order_value_EUR,30975.79
+order_value_EUR,45256.74
+order_value_EUR,72749.07
+order_value_EUR,150313.19
+order_value_EUR,36785.28
+order_value_EUR,35214.85
+order_value_EUR,90926.92
+order_value_EUR,37521.39
+order_value_EUR,68173.22
+order_value_EUR,88832.28
+order_value_EUR,159793.46
+order_value_EUR,177208.76
+order_value_EUR,224626.25
+order_value_EUR,89369.0
+order_value_EUR,65254.5
+order_value_EUR,62011.86
+order_value_EUR,128208.95
+order_value_EUR,136915.61
+order_value_EUR,159926.16
+order_value_EUR,154715.49
+order_value_EUR,81219.67
+order_value_EUR,251003.51
+order_value_EUR,51407.3
+order_value_EUR,79407.28
+order_value_EUR,50689.19
+order_value_EUR,178465.4
+order_value_EUR,89600.45
+order_value_EUR,151855.04
+order_value_EUR,147055.1
+order_value_EUR,29783.39
+order_value_EUR,154072.89
+order_value_EUR,278731.9
+order_value_EUR,132235.46
+order_value_EUR,118321.11
+order_value_EUR,88977.22
+order_value_EUR,204133.95
+order_value_EUR,102000.57
+order_value_EUR,115226.8
+order_value_EUR,49664.17
+order_value_EUR,35354.22
+order_value_EUR,128804.51
+order_value_EUR,107499.78
+order_value_EUR,50646.66
+order_value_EUR,103874.1
+order_value_EUR,128227.36
+order_value_EUR,140635.94
+order_value_EUR,83782.11
+order_value_EUR,162101.93
+order_value_EUR,62947.82
+order_value_EUR,238085.99
+order_value_EUR,57107.26
+order_value_EUR,133696.86
+order_value_EUR,65329.65
+order_value_EUR,124414.74
+order_value_EUR,48090.78
+order_value_EUR,214615.79
+order_value_EUR,70596.7
+order_value_EUR,114232.68
+order_value_EUR,45463.65
+order_value_EUR,23290.84
+order_value_EUR,103279.79
+order_value_EUR,76426.54
+order_value_EUR,167123.72
+order_value_EUR,95966.17
+order_value_EUR,268779.03
+order_value_EUR,226021.18
+order_value_EUR,48850.38
+order_value_EUR,19930.04
+order_value_EUR,40043.11
+order_value_EUR,86669.23
+order_value_EUR,98289.32
+order_value_EUR,105686.13
+order_value_EUR,126582.5
+order_value_EUR,53089.52
+order_value_EUR,72885.55
+order_value_EUR,162246.76
+order_value_EUR,126346.44
+order_value_EUR,248261.86
+order_value_EUR,63373.72
+order_value_EUR,85927.37
+order_value_EUR,115718.87
+order_value_EUR,87409.49
+order_value_EUR,253291.55
+order_value_EUR,383996.76
+order_value_EUR,53616.06
+order_value_EUR,176473.32
+order_value_EUR,29493.79
+order_value_EUR,52209.31
+order_value_EUR,125253.59
+order_value_EUR,87404.0
+order_value_EUR,167072.72
+order_value_EUR,157932.84
+order_value_EUR,95575.75
+order_value_EUR,69126.5
+order_value_EUR,140943.88
+order_value_EUR,124784.67
+order_value_EUR,61968.26
+order_value_EUR,172453.1
+cost,77722.25
+cost,40319.41
+cost,115708.14
+cost,175344.16
+cost,110924.13
+cost,55529.13
+cost,81395.75
+cost,115056.65
+cost,26375.35
+cost,102890.26
+cost,117806.48
+cost,160031.46
+cost,209799.15
+cost,57295.56
+cost,125117.1
+cost,53113.45
+cost,13743.44
+cost,45031.62
+cost,136895.86
+cost,86115.05
+cost,75367.51
+cost,65536.3
+cost,56032.84
+cost,69559.73
+cost,98408.48
+cost,123653.67
+cost,115240.03
+cost,180928.27
+cost,100284.52
+cost,73454.25
+cost,149866.33
+cost,77498.23
+cost,47688.55
+cost,46745.13
+cost,199152.52
+cost,46785.98
+cost,145968.36
+cost,82566.04
+cost,102217.88
+cost,132686.74
+cost,79068.13
+cost,123710.97
+cost,120744.82
+cost,138872.91
+cost,93063.6
+cost,75380.53
+cost,38765.82
+cost,46102.28
+cost,23198.53
+cost,125401.11
+cost,111850.68
+cost,54250.97
+cost,34315.97
+cost,59752.32
+cost,52363.95
+cost,68918.85
+cost,100719.02
+cost,48221.3
+cost,138208.53
+cost,139923.25
+cost,140893.7
+cost,215695.2
+cost,88594.91
+cost,133990.37
+cost,146702.99
+cost,17938.1
+cost,153573.54
+cost,33113.15
+cost,97166.07
+cost,47711.57
+cost,138283.83
+cost,216155.25
+cost,33352.45
+cost,80793.31
+cost,248275.93
+cost,65474.27
+cost,40999.94
+cost,28397.39
+cost,66236.67
+cost,54238.92
+cost,150324.5
+cost,114388.65
+cost,103684.6
+cost,288368.4
+cost,63316.25
+cost,121173.26
+cost,43791.97
+cost,60731.82
+cost,183764.34
+cost,128845.63
+cost,76519.12
+cost,190767.27
+cost,73264.23
+cost,155033.92
+cost,239530.86
+cost,68971.35
+cost,106036.97
+cost,97204.33
+cost,130087.64
+cost,135567.12
+cost,68454.0
+cost,52487.39
+cost,64422.19
+cost,118333.46
+cost,23924.96
+cost,116764.68
+cost,87480.38
+cost,111414.1
+cost,88151.47
+cost,218825.43
+cost,130878.57
+cost,148818.58
+cost,98954.65
+cost,55897.21
+cost,22832.99
+cost,60077.28
+cost,73646.52
+cost,131067.85
+cost,28017.42
+cost,103042.66
+cost,41405.52
+cost,60023.88
+cost,24001.76
+cost,130605.38
+cost,31967.36
+cost,83281.33
+cost,126080.02
+cost,185543.31
+cost,68148.18
+cost,58014.63
+cost,84045.65
+cost,172014.71
+cost,135696.48
+cost,68010.03
+cost,75318.05
+cost,195138.09
+cost,106147.69
+cost,14122.61
+cost,48914.01
+cost,86568.86
+cost,29339.96
+cost,90868.4
+cost,72540.66
+cost,90759.47
+cost,154975.33
+cost,67959.25
+cost,71329.6
+cost,77171.27
+cost,27300.82
+cost,118480.04
+cost,59220.98
+cost,119193.91
+cost,105800.56
+cost,92705.4
+cost,62416.53
+cost,30274.55
+cost,88395.39
+cost,143278.31
+cost,38987.32
+cost,49099.25
+cost,69011.3
+cost,97527.65
+cost,52736.58
+cost,142809.54
+cost,75337.65
+cost,97762.23
+cost,96050.67
+cost,122994.88
+cost,55764.6
+cost,217269.5
+cost,22339.75
+cost,84872.4
+cost,86770.57
+cost,74916.36
+cost,67161.07
+cost,62714.74
+cost,112317.21
+cost,166127.05
+cost,108473.39
+cost,21168.53
+cost,130487.51
+cost,69967.83
+cost,23958.35
+cost,124035.14
+cost,134268.12
+cost,46331.78
+cost,218737.35
+cost,87414.0
+cost,96719.27
+cost,142717.22
+cost,201848.41
+cost,49916.42
+cost,204438.49
+cost,120566.07
+cost,71630.0
+cost,29698.03
+cost,65326.8
+cost,106214.86
+cost,115372.45
+cost,40576.89
+cost,31581.7
+cost,70652.87
+cost,65894.69
+cost,75669.26
+cost,48820.47
+cost,56145.21
+cost,105981.92
+cost,108732.98
+cost,112035.07
+cost,61959.73
+cost,81837.05
+cost,129110.39
+cost,45629.81
+cost,92797.25
+cost,151518.96
+cost,46401.07
+cost,65471.86
+cost,109106.13
+cost,106514.89
+cost,72288.16
+cost,115325.33
+cost,102927.16
+cost,180413.86
+cost,118526.5
+cost,32368.3
+cost,110436.8
+cost,91641.27
+cost,56191.95
+cost,114213.68
+cost,136574.45
+cost,43918.78
+cost,65535.6
+cost,99372.32
+cost,153059.69
+cost,83379.43
+cost,86657.9
+cost,71699.59
+cost,112794.83
+cost,155079.51
+cost,36252.34
+cost,91104.81
+cost,270401.71
+cost,53920.06
+cost,214142.55
+cost,98017.57
+cost,231514.37
+cost,72000.51
+cost,106368.19
+cost,80593.65
+cost,119178.53
+cost,22454.05
+cost,148852.74
+cost,24970.92
+cost,136037.76
+cost,32781.3
+cost,195435.4
+cost,22043.95
+cost,47663.92
+cost,15067.97
+cost,58014.66
+cost,86928.03
+cost,47354.92
+cost,81191.79
+cost,105039.91
+cost,95746.71
+cost,66568.74
+cost,192869.73
+cost,139729.59
+cost,90868.67
+cost,89503.91
+cost,32666.65
+cost,120808.16
+cost,115262.94
+cost,204507.25
+cost,13430.7
+cost,47443.43
+cost,39630.17
+cost,255572.92
+cost,65295.54
+cost,46583.63
+cost,57309.42
+cost,196544.91
+cost,122399.66
+cost,84571.17
+cost,94270.74
+cost,64098.31
+cost,122385.7
+cost,54671.71
+cost,149681.47
+cost,64509.47
+cost,73004.91
+cost,23656.32
+cost,59750.03
+cost,138046.17
+cost,103998.35
+cost,161233.92
+cost,129258.09
+cost,137568.77
+cost,46089.06
+cost,51855.29
+cost,139114.11
+cost,65819.64
+cost,69548.62
+cost,108534.21
+cost,116046.22
+cost,130096.08
+cost,84128.53
+cost,146859.34
+cost,134709.28
+cost,59166.13
+cost,103874.97
+cost,106841.93
+cost,81770.71
+cost,16469.58
+cost,123729.81
+cost,23938.8
+cost,133991.78
+cost,199388.3
+cost,32001.06
+cost,39116.87
+cost,155807.88
+cost,123579.2
+cost,130624.94
+cost,74089.48
+cost,130703.8
+cost,179100.09
+cost,68950.1
+cost,115407.48
+cost,150383.32
+cost,76475.57
+cost,29424.59
+cost,137419.74
+cost,26800.66
+cost,52837.14
+cost,39234.95
+cost,105113.73
+cost,40564.1
+cost,75936.7
+cost,72219.63
+cost,54635.77
+cost,90231.74
+cost,142621.4
+cost,60181.33
+cost,25662.45
+cost,191439.74
+cost,79127.71
+cost,100977.16
+cost,58544.18
+cost,17408.61
+cost,41835.95
+cost,34273.41
+cost,117822.61
+cost,42533.18
+cost,142273.55
+cost,56043.63
+cost,101939.48
+cost,17148.18
+cost,120822.85
+cost,113708.2
+cost,110277.9
+cost,105386.53
+cost,32837.59
+cost,179426.05
+cost,40174.38
+cost,47756.88
+cost,22600.32
+cost,69171.01
+cost,175355.45
+cost,135376.86
+cost,147074.77
+cost,31298.8
+cost,123136.25
+cost,130494.44
+cost,144999.6
+cost,77806.11
+cost,117916.94
+cost,120172.06
+cost,73701.9
+cost,115101.7
+cost,51414.78
+cost,108047.95
+cost,91223.06
+cost,52811.83
+cost,89420.05
+cost,78005.44
+cost,43443.8
+cost,64500.28
+cost,52805.48
+cost,103032.61
+cost,65806.03
+cost,53009.31
+cost,45081.27
+cost,56439.28
+cost,37317.36
+cost,86665.0
+cost,34757.86
+cost,95432.73
+cost,116886.15
+cost,53669.75
+cost,91158.6
+cost,259106.43
+cost,60336.7
+cost,145440.65
+cost,133307.0
+cost,47384.61
+cost,121241.0
+cost,100691.37
+cost,102664.8
+cost,44989.14
+cost,134423.99
+cost,177930.69
+cost,63245.29
+cost,287528.72
+cost,153401.21
+cost,147354.39
+cost,132166.6
+cost,69254.99
+cost,34656.67
+cost,131102.96
+cost,128647.41
+cost,97304.51
+cost,12113.68
+cost,85312.4
+cost,34634.72
+cost,138102.04
+cost,46255.76
+cost,194951.78
+cost,80790.93
+cost,85393.44
+cost,213413.56
+cost,131336.73
+cost,142665.42
+cost,78819.89
+cost,245822.88
+cost,31304.04
+cost,89779.02
+cost,149257.23
+cost,26770.53
+cost,158970.75
+cost,148877.54
+cost,83414.92
+cost,123611.44
+cost,126599.15
+cost,52437.52
+cost,137942.06
+cost,30412.8
+cost,108600.06
+cost,78533.14
+cost,31138.0
+cost,80399.53
+cost,113351.32
+cost,169485.23
+cost,79702.55
+cost,42316.82
+cost,92254.34
+cost,46993.23
+cost,113019.51
+cost,108614.9
+cost,126360.36
+cost,99686.48
+cost,36571.28
+cost,45908.75
+cost,135788.88
+cost,61694.59
+cost,63545.63
+cost,102656.29
+cost,72306.7
+cost,84690.35
+cost,254079.32
+cost,166442.61
+cost,45101.78
+cost,154649.1
+cost,90970.98
+cost,93940.62
+cost,234444.72
+cost,90341.19
+cost,92106.34
+cost,144985.56
+cost,45716.06
+cost,53645.57
+cost,24408.08
+cost,141080.04
+cost,54920.21
+cost,123158.19
+cost,29109.06
+cost,16930.34
+cost,111593.02
+cost,24776.45
+cost,132912.68
+cost,74584.3
+cost,52635.24
+cost,36154.39
+cost,95769.21
+cost,34458.56
+cost,32508.07
+cost,68239.08
+cost,49223.22
+cost,136562.9
+cost,21447.97
+cost,199607.15
+cost,101131.1
+cost,96750.22
+cost,20454.77
+cost,72464.59
+cost,135739.64
+cost,30579.07
+cost,56778.54
+cost,92791.97
+cost,120117.61
+cost,69405.04
+cost,122303.44
+cost,62245.01
+cost,182173.13
+cost,187446.59
+cost,41103.12
+cost,109203.84
+cost,165617.44
+cost,31559.76
+cost,89853.52
+cost,35802.68
+cost,64747.04
+cost,100027.6
+cost,63982.11
+cost,118662.2
+cost,93195.76
+cost,98127.6
+cost,129643.3
+cost,97476.43
+cost,63411.83
+cost,77966.6
+cost,58759.05
+cost,149816.07
+cost,118345.1
+cost,130614.75
+cost,41180.16
+cost,147370.42
+cost,59560.93
+cost,182321.07
+cost,78266.76
+cost,72488.1
+cost,96566.37
+cost,69604.58
+cost,101516.45
+cost,35480.85
+cost,73755.12
+cost,34255.26
+cost,83208.68
+cost,112926.83
+cost,102282.42
+cost,72662.21
+cost,90588.12
+cost,62951.21
+cost,120044.69
+cost,148063.76
+cost,40575.85
+cost,40749.89
+cost,93727.45
+cost,37163.72
+cost,30837.92
+cost,137398.59
+cost,58842.86
+cost,53049.61
+cost,215326.95
+cost,153421.22
+cost,90683.24
+cost,47121.65
+cost,134178.02
+cost,30491.51
+cost,36244.88
+cost,199010.01
+cost,130402.89
+cost,261730.24
+cost,53455.62
+cost,37764.5
+cost,18802.21
+cost,91430.07
+cost,57808.91
+cost,36299.97
+cost,63537.82
+cost,162577.96
+cost,98720.53
+cost,84765.87
+cost,60448.34
+cost,98234.71
+cost,144246.42
+cost,59082.91
+cost,54600.93
+cost,137527.4
+cost,97897.22
+cost,97294.97
+cost,205415.64
+cost,120416.48
+cost,173029.46
+cost,64721.7
+cost,136818.63
+cost,166116.5
+cost,142975.55
+cost,136561.33
+cost,139650.31
+cost,142083.89
+cost,45620.29
+cost,87261.49
+cost,30101.52
+cost,16364.25
+cost,86581.39
+cost,107920.06
+cost,46986.31
+cost,123030.97
+cost,116744.51
+cost,116275.1
+cost,51715.23
+cost,61981.27
+cost,95190.38
+cost,122646.33
+cost,135965.83
+cost,71885.02
+cost,139413.93
+cost,106406.98
+cost,93433.69
+cost,135347.42
+cost,154734.75
+cost,124193.9
+cost,244926.18
+cost,150739.1
+cost,163052.82
+cost,136620.39
+cost,83584.01
+cost,34773.98
+cost,85207.33
+cost,37816.27
+cost,64811.2
+cost,216165.64
+cost,63936.16
+cost,122260.56
+cost,25457.58
+cost,149824.04
+cost,64311.64
+cost,134121.1
+cost,121130.5
+cost,105441.05
+cost,160749.37
+cost,31708.77
+cost,87285.43
+cost,46308.55
+cost,47587.73
+cost,19492.62
+cost,24658.45
+cost,212449.39
+cost,48976.96
+cost,56996.99
+cost,211446.46
+cost,37039.96
+cost,113212.32
+cost,89720.95
+cost,69479.35
+cost,40739.77
+cost,245714.0
+cost,120277.3
+cost,35755.54
+cost,114691.25
+cost,32985.32
+cost,116111.09
+cost,75839.4
+cost,27708.06
+cost,65423.49
+cost,94130.4
+cost,73767.15
+cost,77788.97
+cost,95448.37
+cost,142433.46
+cost,48561.56
+cost,56754.72
+cost,81706.95
+cost,208757.67
+cost,43757.27
+cost,213104.91
+cost,60145.98
+cost,133509.37
+cost,34192.31
+cost,146621.76
+cost,122303.08
+cost,80700.2
+cost,93365.45
+cost,68536.57
+cost,44047.22
+cost,117492.58
+cost,96700.29
+cost,33765.09
+cost,140746.53
+cost,123230.4
+cost,154936.71
+cost,101762.04
+cost,26743.9
+cost,128494.86
+cost,132275.84
+cost,227950.25
+cost,78067.95
+cost,146845.04
+cost,64227.45
+cost,48783.4
+cost,108988.86
+cost,88066.99
+cost,98229.37
+cost,55462.24
+cost,73979.21
+cost,89328.35
+cost,32854.25
+cost,149834.75
+cost,50419.38
+cost,77572.71
+cost,67415.21
+cost,139069.05
+cost,132584.56
+cost,65587.32
+cost,50041.41
+cost,81854.26
+cost,85696.39
+cost,139125.48
+cost,39435.11
+cost,56672.3
+cost,170181.07
+cost,71198.45
+cost,46905.19
+cost,201468.96
+cost,45641.17
+cost,105366.29
+cost,45124.19
+cost,107012.89
+cost,142690.18
+cost,62870.73
+cost,64316.75
+cost,32591.06
+cost,132579.21
+cost,30010.92
+cost,63987.04
+cost,68446.74
+cost,72309.95
+cost,79773.6
+cost,61330.5
+cost,131529.0
+cost,39387.44
+cost,126940.58
+cost,35669.83
+cost,122258.74
+cost,137390.83
+cost,56883.62
+cost,35356.27
+cost,96030.18
+cost,26614.6
+cost,166748.17
+cost,69774.19
+cost,60145.55
+cost,116257.18
+cost,51269.05
+cost,76795.96
+cost,84030.23
+cost,98171.79
+cost,75569.65
+cost,100710.8
+cost,84731.8
+cost,86710.96
+cost,46713.8
+cost,172245.64
+cost,212113.24
+cost,48693.55
+cost,264592.51
+cost,31954.18
+cost,48876.12
+cost,63378.63
+cost,63716.09
+cost,139986.9
+cost,112140.88
+cost,89917.94
+cost,64047.44
+cost,128478.86
+cost,141449.62
+cost,217959.37
+cost,92470.16
+cost,72469.74
+cost,94525.24
+cost,28509.39
+cost,136981.36
+cost,146049.01
+cost,143432.61
+cost,74794.66
+cost,177308.61
+cost,23517.55
+cost,169005.93
+cost,49239.69
+cost,212058.58
+cost,72391.09
+cost,93104.94
+cost,61604.51
+cost,65836.96
+cost,27922.42
+cost,73002.08
+cost,32793.0
+cost,76548.34
+cost,113050.41
+cost,64992.53
+cost,68132.88
+cost,16787.15
+cost,176444.2
+cost,54790.27
+cost,48076.46
+cost,52176.3
+cost,58421.31
+cost,38344.92
+cost,44592.6
+cost,47378.05
+cost,104585.25
+cost,102590.33
+cost,131543.89
+cost,38880.67
+cost,43338.75
+cost,63359.4
+cost,80342.7
+cost,101576.49
+cost,27475.84
+cost,89441.85
+cost,145029.41
+cost,202250.24
+cost,26593.2
+cost,54733.95
+cost,31900.28
+cost,92119.67
+cost,80367.88
+cost,104692.08
+cost,105881.76
+cost,127926.09
+cost,49416.54
+cost,30847.21
+cost,130611.16
+cost,98244.97
+cost,97218.04
+cost,44090.96
+cost,92807.78
+cost,15857.49
+cost,79242.03
+cost,257480.34
+cost,28192.66
+cost,116741.92
+cost,99997.65
+cost,74400.46
+cost,107776.58
+cost,138237.92
+cost,61617.41
+cost,97470.73
+cost,76899.3
+cost,106383.36
+cost,143198.51
+cost,60442.51
+cost,84217.94
+cost,85009.46
+cost,98289.02
+cost,53435.42
+cost,131541.23
+cost,105231.51
+cost,85176.06
+cost,112948.11
+cost,133979.06
+cost,38250.74
+cost,72384.03
+cost,52361.14
+cost,42927.03
+cost,38112.73
+cost,117867.62
+cost,205674.91
+cost,117658.4
+cost,140675.25
+cost,22450.04
+cost,105033.28
+cost,143896.01
+cost,103777.39
+cost,94546.09
+cost,104005.09
+cost,24610.15
+cost,28748.82
+cost,110963.17
+cost,95506.96
+cost,104531.19
+cost,112267.17
+cost,86679.64
+cost,64124.79
+cost,49379.09
+cost,76195.85
+cost,229656.38
+cost,99873.91
+cost,84761.75
+cost,104118.5
+cost,64532.01
+cost,103024.52
+cost,104384.7
+cost,205605.39
+cost,133195.66
+cost,134757.21
+cost,39208.09
+cost,145952.24
+cost,37882.72
+cost,64434.02
+cost,104975.19
+cost,27072.84
+cost,38975.1
+cost,59108.62
+cost,118927.8
+cost,30546.5
+cost,27985.24
+cost,73050.69
+cost,29701.93
+cost,54040.91
+cost,71501.1
+cost,139180.1
+cost,151779.3
+cost,189988.88
+cost,72889.36
+cost,53919.79
+cost,49324.23
+cost,111746.92
+cost,114790.05
+cost,126453.61
+cost,126572.74
+cost,70319.99
+cost,214105.99
+cost,44292.53
+cost,64383.42
+cost,43597.77
+cost,156282.15
+cost,70811.24
+cost,129486.79
+cost,126114.45
+cost,23719.49
+cost,121887.06
+cost,221591.86
+cost,114132.43
+cost,94822.54
+cost,72534.23
+cost,167553.15
+cost,94336.18
+cost,39244.63
+cost,30517.76
+cost,105709.86
+cost,91364.06
+cost,43039.53
+cost,82112.48
+cost,106710.81
+cost,115194.9
+cost,67310.55
+cost,133912.4
+cost,49967.98
+cost,193587.72
+cost,48232.79
+cost,109310.55
+cost,53237.13
+cost,98959.48
+cost,42040.96
+cost,177637.49
+cost,60564.91
+cost,95795.52
+cost,36907.39
+cost,19147.4
+cost,82334.65
+cost,66116.6
+cost,132946.92
+cost,75976.42
+cost,233676.49
+cost,180455.31
+cost,39788.63
+cost,16543.93
+cost,35109.8
+cost,14102.75
+cost,71580.12
+cost,84116.0
+cost,86694.33
+cost,103683.73
+cost,44812.86
+cost,59773.44
+cost,142663.58
+cost,103970.49
+cost,206727.65
+cost,55572.41
+cost,74490.44
+cost,100640.7
+cost,70548.2
+cost,219502.46
+cost,304701.43
+cost,45589.74
+cost,139413.92
+cost,24285.19
+cost,41480.3
+cost,108269.2
+cost,69363.81
+cost,135044.88
+cost,134148.15
+cost,75504.84
+cost,55902.6
+cost,120633.87
+cost,106853.11
+cost,50690.04
+cost,145688.38
+date,2020-08-23 00:00:00
+date,2020-05-15 00:00:00
+date,2020-04-09 00:00:00
+date,2019-06-26 00:00:00
+date,2019-09-24 00:00:00
+date,2020-01-25 00:00:00
+date,2019-06-21 00:00:00
+date,2019-01-15 00:00:00
+date,2020-11-28 00:00:00
+date,2020-10-03 00:00:00
+date,2020-10-31 00:00:00
+date,2019-07-27 00:00:00
+date,2019-06-15 00:00:00
+date,2020-01-28 00:00:00
+date,2019-04-10 00:00:00
+date,2019-10-03 00:00:00
+date,2020-05-29 00:00:00
+date,2020-08-24 00:00:00
+date,2019-01-19 00:00:00
+date,2019-11-18 00:00:00
+date,2020-09-08 00:00:00
+date,2019-10-22 00:00:00
+date,2019-03-18 00:00:00
+date,2019-09-19 00:00:00
+date,2020-01-31 00:00:00
+date,2020-05-24 00:00:00
+date,2020-07-20 00:00:00
+date,2019-12-05 00:00:00
+date,2020-01-13 00:00:00
+date,2019-09-25 00:00:00
+date,2020-01-19 00:00:00
+date,2020-09-05 00:00:00
+date,2019-07-02 00:00:00
+date,2019-08-12 00:00:00
+date,2019-09-28 00:00:00
+date,2019-04-07 00:00:00
+date,2019-05-17 00:00:00
+date,2020-06-21 00:00:00
+date,2019-07-20 00:00:00
+date,2020-03-30 00:00:00
+date,2020-03-10 00:00:00
+date,2020-07-14 00:00:00
+date,2020-09-23 00:00:00
+date,2020-02-15 00:00:00
+date,2020-05-10 00:00:00
+date,2019-04-19 00:00:00
+date,2020-08-11 00:00:00
+date,2019-03-19 00:00:00
+date,2020-07-24 00:00:00
+date,2019-09-09 00:00:00
+date,2019-02-19 00:00:00
+date,2019-10-27 00:00:00
+date,2020-02-04 00:00:00
+date,2019-02-22 00:00:00
+date,2020-08-21 00:00:00
+date,2019-03-07 00:00:00
+date,2019-07-10 00:00:00
+date,2019-05-30 00:00:00
+date,2020-10-24 00:00:00
+date,2020-06-15 00:00:00
+date,2019-03-08 00:00:00
+date,2020-08-14 00:00:00
+date,2019-10-13 00:00:00
+date,2019-03-14 00:00:00
+date,2020-09-12 00:00:00
+date,2019-04-02 00:00:00
+date,2019-11-14 00:00:00
+date,2020-02-03 00:00:00
+date,2019-04-30 00:00:00
+date,2020-08-06 00:00:00
+date,2019-03-23 00:00:00
+date,2020-01-03 00:00:00
+date,2020-11-12 00:00:00
+date,2020-08-29 00:00:00
+date,2020-08-18 00:00:00
+date,2019-06-02 00:00:00
+date,2019-02-11 00:00:00
+date,2019-02-12 00:00:00
+date,2019-05-23 00:00:00
+date,2020-06-22 00:00:00
+date,2020-01-06 00:00:00
+date,2020-11-10 00:00:00
+date,2019-06-25 00:00:00
+date,2020-05-18 00:00:00
+date,2019-06-24 00:00:00
+date,2020-12-14 00:00:00
+date,2020-11-13 00:00:00
+date,2019-10-28 00:00:00
+date,2020-08-10 00:00:00
+date,2020-12-30 00:00:00
+date,2019-01-12 00:00:00
+date,2019-12-01 00:00:00
+date,2019-09-02 00:00:00
+date,2020-06-10 00:00:00
+date,2020-02-05 00:00:00
+date,2020-10-05 00:00:00
+date,2019-04-06 00:00:00
+date,2019-08-07 00:00:00
+date,2019-04-21 00:00:00
+date,2019-09-18 00:00:00
+date,2019-03-12 00:00:00
+date,2019-02-17 00:00:00
+date,2020-09-09 00:00:00
+date,2019-01-11 00:00:00
+date,2020-11-27 00:00:00
+date,2020-06-03 00:00:00
+date,2019-03-26 00:00:00
+date,2020-07-05 00:00:00
+date,2019-03-24 00:00:00
+date,2020-08-25 00:00:00
+date,2020-02-06 00:00:00
+date,2019-03-22 00:00:00
+date,2019-09-04 00:00:00
+date,2019-06-20 00:00:00
+date,2019-10-20 00:00:00
+date,2019-05-26 00:00:00
+date,2019-08-26 00:00:00
+date,2019-12-27 00:00:00
+date,2020-09-18 00:00:00
+date,2020-12-02 00:00:00
+date,2019-01-18 00:00:00
+date,2019-09-08 00:00:00
+date,2019-11-21 00:00:00
+date,2020-05-07 00:00:00
+date,2020-10-27 00:00:00
+date,2020-10-10 00:00:00
+date,2020-07-23 00:00:00
+date,2019-09-03 00:00:00
+date,2020-01-09 00:00:00
+date,2019-12-10 00:00:00
+date,2019-04-26 00:00:00
+date,2019-10-17 00:00:00
+date,2019-05-04 00:00:00
+date,2020-09-01 00:00:00
+date,2020-02-20 00:00:00
+date,2020-07-06 00:00:00
+date,2019-09-29 00:00:00
+date,2020-01-23 00:00:00
+date,2020-11-05 00:00:00
+date,2019-06-04 00:00:00
+date,2019-09-17 00:00:00
+date,2019-09-20 00:00:00
+date,2020-03-07 00:00:00
+date,2020-08-31 00:00:00
+date,2020-09-10 00:00:00
+date,2020-04-01 00:00:00
+date,2020-11-29 00:00:00
+date,2020-03-13 00:00:00
+date,2020-09-16 00:00:00
+date,2020-10-06 00:00:00
+date,2020-05-03 00:00:00
+date,2019-04-11 00:00:00
+date,2020-09-27 00:00:00
+date,2020-11-16 00:00:00
+date,2020-10-29 00:00:00
+date,2019-12-30 00:00:00
+date,2019-10-25 00:00:00
+date,2019-03-28 00:00:00
+date,2020-09-07 00:00:00
+date,2020-12-11 00:00:00
+date,2020-04-14 00:00:00
+date,2019-06-14 00:00:00
+date,2020-12-13 00:00:00
+date,2020-07-12 00:00:00
+date,2019-06-09 00:00:00
+date,2020-06-05 00:00:00
+date,2020-04-27 00:00:00
+date,2020-02-21 00:00:00
+date,2020-05-30 00:00:00
+date,2020-05-17 00:00:00
+date,2019-09-16 00:00:00
+date,2019-08-02 00:00:00
+date,2020-07-04 00:00:00
+date,2020-04-30 00:00:00
+date,2019-04-23 00:00:00
+date,2020-09-11 00:00:00
+date,2019-10-15 00:00:00
+date,2020-12-07 00:00:00
+date,2020-06-29 00:00:00
+date,2019-02-01 00:00:00
+date,2019-05-03 00:00:00
+date,2019-04-24 00:00:00
+date,2020-11-01 00:00:00
+date,2019-11-06 00:00:00
+date,2019-03-11 00:00:00
+date,2020-11-15 00:00:00
+date,2020-04-22 00:00:00
+date,2020-12-08 00:00:00
+date,2020-04-12 00:00:00
+date,2019-10-29 00:00:00
+date,2019-10-30 00:00:00
+date,2020-05-19 00:00:00
+date,2020-11-20 00:00:00
+date,2019-05-31 00:00:00
+date,2019-10-18 00:00:00
+date,2019-07-12 00:00:00
+date,2019-04-13 00:00:00
+date,2020-11-22 00:00:00
+date,2019-05-01 00:00:00
+date,2019-07-18 00:00:00
+date,2020-01-24 00:00:00
+date,2019-08-10 00:00:00
+date,2019-12-12 00:00:00
+date,2020-03-20 00:00:00
+date,2020-06-13 00:00:00
+date,2019-09-12 00:00:00
+date,2019-03-15 00:00:00
+date,2020-05-14 00:00:00
+date,2020-09-22 00:00:00
+date,2019-08-29 00:00:00
+date,2019-12-26 00:00:00
+date,2019-05-27 00:00:00
+date,2019-01-29 00:00:00
+date,2020-05-27 00:00:00
+date,2020-12-10 00:00:00
+date,2019-11-08 00:00:00
+date,2019-03-02 00:00:00
+date,2020-06-09 00:00:00
+date,2019-03-21 00:00:00
+date,2020-04-15 00:00:00
+date,2019-11-15 00:00:00
+date,2020-07-01 00:00:00
+date,2020-05-22 00:00:00
+date,2019-05-22 00:00:00
+date,2019-10-07 00:00:00
+date,2020-11-09 00:00:00
+date,2020-07-30 00:00:00
+date,2020-01-08 00:00:00
+date,2019-04-05 00:00:00
+date,2019-12-23 00:00:00
+date,2020-03-15 00:00:00
+date,2020-04-13 00:00:00
+date,2019-12-21 00:00:00
+date,2019-08-27 00:00:00
+date,2020-09-06 00:00:00
+date,2020-11-04 00:00:00
+date,2020-02-01 00:00:00
+date,2020-02-24 00:00:00
+date,2020-07-07 00:00:00
+date,2019-04-18 00:00:00
+date,2020-04-04 00:00:00
+date,2020-11-07 00:00:00
+date,2019-09-01 00:00:00
+date,2020-04-07 00:00:00
+date,2020-05-11 00:00:00
+date,2020-11-30 00:00:00
+date,2020-12-04 00:00:00
+date,2019-11-09 00:00:00
+date,2019-03-09 00:00:00
+date,2019-12-08 00:00:00
+date,2019-07-24 00:00:00
+date,2019-12-24 00:00:00
+date,2019-05-15 00:00:00
+date,2020-06-28 00:00:00
+date,2020-05-23 00:00:00
+date,2020-05-21 00:00:00
+date,2020-02-16 00:00:00
+date,2019-07-13 00:00:00
+date,2019-10-10 00:00:00
+date,2019-04-04 00:00:00
+date,2019-02-06 00:00:00
+date,2020-05-28 00:00:00
+date,2020-06-19 00:00:00
+date,2019-07-05 00:00:00
+date,2020-11-14 00:00:00
+date,2019-08-06 00:00:00
+date,2020-06-24 00:00:00
+date,2020-06-26 00:00:00
+date,2019-06-28 00:00:00
+date,2020-01-18 00:00:00
+date,2020-04-08 00:00:00
+date,2020-02-07 00:00:00
+date,2020-12-27 00:00:00
+date,2019-02-26 00:00:00
+date,2020-03-22 00:00:00
+date,2019-05-29 00:00:00
+date,2019-09-26 00:00:00
+date,2020-05-04 00:00:00
+date,2020-04-02 00:00:00
+date,2020-09-15 00:00:00
+date,2019-10-09 00:00:00
+date,2020-08-27 00:00:00
+date,2020-05-26 00:00:00
+date,2019-08-04 00:00:00
+date,2019-02-23 00:00:00
+date,2020-10-25 00:00:00
+date,2019-02-09 00:00:00
+date,2019-01-20 00:00:00
+date,2019-08-05 00:00:00
+date,2020-12-16 00:00:00
+date,2019-05-08 00:00:00
+date,2020-11-18 00:00:00
+date,2019-05-07 00:00:00
+date,2019-10-11 00:00:00
+date,2020-06-18 00:00:00
+date,2020-07-22 00:00:00
+date,2019-06-05 00:00:00
+date,2019-01-09 00:00:00
+date,2019-07-30 00:00:00
+date,2020-09-24 00:00:00
+date,2020-04-29 00:00:00
+date,2020-10-18 00:00:00
+date,2019-08-23 00:00:00
+date,2020-12-29 00:00:00
+date,2019-09-11 00:00:00
+date,2020-06-01 00:00:00
+date,2020-03-26 00:00:00
+date,2020-10-17 00:00:00
+date,2020-01-22 00:00:00
+date,2020-03-19 00:00:00
+date,2020-08-09 00:00:00
+date,2020-05-08 00:00:00
+date,2019-04-03 00:00:00
+date,2020-12-03 00:00:00
+date,2020-10-22 00:00:00
+date,2019-11-28 00:00:00
+date,2020-03-27 00:00:00
+date,2020-01-04 00:00:00
+date,2020-12-15 00:00:00
+date,2019-12-28 00:00:00
+date,2019-04-22 00:00:00
+date,2020-02-11 00:00:00
+date,2020-09-03 00:00:00
+date,2019-07-23 00:00:00
+date,2020-08-02 00:00:00
+date,2019-11-13 00:00:00
+date,2019-03-06 00:00:00
+date,2019-01-17 00:00:00
+date,2020-02-28 00:00:00
+date,2019-04-09 00:00:00
+date,2019-02-20 00:00:00
+date,2019-03-20 00:00:00
+date,2020-12-12 00:00:00
+date,2020-10-07 00:00:00
+date,2020-05-09 00:00:00
+date,2020-03-21 00:00:00
+date,2019-11-03 00:00:00
+date,2020-02-18 00:00:00
+date,2020-11-24 00:00:00
+date,2020-01-30 00:00:00
+date,2019-09-07 00:00:00
+date,2019-08-16 00:00:00
+date,2020-08-30 00:00:00
+date,2020-03-02 00:00:00
+date,2020-10-28 00:00:00
+date,2020-07-17 00:00:00
+date,2020-10-02 00:00:00
+date,2020-03-05 00:00:00
+date,2019-12-13 00:00:00
+date,2020-03-04 00:00:00
+date,2019-10-24 00:00:00
+date,2019-01-21 00:00:00
+date,2020-08-26 00:00:00
+date,2019-03-10 00:00:00
+date,2019-08-13 00:00:00
+date,2020-05-06 00:00:00
+date,2019-12-18 00:00:00
+date,2019-04-25 00:00:00
+date,2019-12-25 00:00:00
+date,2019-02-25 00:00:00
+date,2020-10-04 00:00:00
+date,2020-04-26 00:00:00
+date,2020-10-30 00:00:00
+date,2019-03-29 00:00:00
+date,2020-01-21 00:00:00
+date,2019-04-12 00:00:00
+date,2019-07-19 00:00:00
+date,2020-09-04 00:00:00
+date,2019-08-09 00:00:00
+date,2019-06-30 00:00:00
+date,2020-09-28 00:00:00
+date,2019-12-02 00:00:00
+date,2019-06-11 00:00:00
+date,2019-05-02 00:00:00
+date,2020-01-20 00:00:00
+date,2019-02-13 00:00:00
+date,2020-07-11 00:00:00
+date,2019-06-08 00:00:00
+date,2020-11-11 00:00:00
+date,2019-07-15 00:00:00
+date,2019-01-27 00:00:00
+date,2019-11-26 00:00:00
+date,2019-11-04 00:00:00
+date,2019-05-20 00:00:00
+date,2019-11-01 00:00:00
+date,2019-05-06 00:00:00
+date,2019-03-25 00:00:00
+date,2019-01-13 00:00:00
+date,2020-08-16 00:00:00
+date,2019-01-14 00:00:00
+date,2019-02-14 00:00:00
+date,2020-01-14 00:00:00
+date,2020-03-25 00:00:00
+date,2020-06-02 00:00:00
+date,2020-02-10 00:00:00
+date,2020-08-08 00:00:00
+date,2020-11-03 00:00:00
+date,2019-08-22 00:00:00
+date,2019-08-15 00:00:00
+date,2020-02-13 00:00:00
+date,2019-05-13 00:00:00
+date,2019-09-27 00:00:00
+date,2019-05-16 00:00:00
+date,2019-03-13 00:00:00
+date,2019-09-30 00:00:00
+date,2020-06-14 00:00:00
+date,2019-01-07 00:00:00
+date,2020-06-23 00:00:00
+date,2019-05-12 00:00:00
+date,2020-11-23 00:00:00
+date,2019-11-25 00:00:00
+date,2020-10-15 00:00:00
+date,2019-02-16 00:00:00
+date,2019-01-02 00:00:00
+date,2020-03-11 00:00:00
+date,2020-01-15 00:00:00
+date,2020-03-28 00:00:00
+date,2020-12-26 00:00:00
+date,2019-10-23 00:00:00
+date,2020-06-25 00:00:00
+date,2019-11-24 00:00:00
+date,2020-08-03 00:00:00
+date,2020-11-21 00:00:00
+date,2020-06-30 00:00:00
+date,2020-07-09 00:00:00
+date,2019-09-23 00:00:00
+date,2020-06-12 00:00:00
+date,2019-12-20 00:00:00
+date,2019-11-29 00:00:00
+date,2020-06-07 00:00:00
+date,2019-03-27 00:00:00
+date,2019-09-05 00:00:00
+date,2020-09-17 00:00:00
+date,2020-03-09 00:00:00
+date,2019-09-15 00:00:00
+date,2019-01-25 00:00:00
+date,2020-08-05 00:00:00
+date,2020-05-20 00:00:00
+date,2020-12-20 00:00:00
+date,2020-03-23 00:00:00
+date,2019-02-07 00:00:00
+date,2019-12-22 00:00:00
+date,2019-12-06 00:00:00
+date,2019-05-19 00:00:00
+date,2020-04-10 00:00:00
+date,2019-10-19 00:00:00
+date,2019-07-31 00:00:00
+date,2019-07-01 00:00:00
+date,2019-07-28 00:00:00
+date,2019-07-22 00:00:00
+date,2020-01-27 00:00:00
+date,2019-12-03 00:00:00
+date,2019-05-25 00:00:00
+date,2020-07-27 00:00:00
+date,2020-07-31 00:00:00
+date,2020-07-18 00:00:00
+date,2019-01-06 00:00:00
+date,2020-07-15 00:00:00
+date,2019-12-09 00:00:00
+date,2019-01-03 00:00:00
+date,2019-11-30 00:00:00
+date,2019-08-08 00:00:00
+date,2020-10-19 00:00:00
+date,2019-08-31 00:00:00
+date,2019-09-22 00:00:00
+date,2019-11-27 00:00:00
+date,2020-12-22 00:00:00
+date,2019-10-14 00:00:00
+date,2019-08-20 00:00:00
+date,2020-12-01 00:00:00
+date,2019-11-12 00:00:00
+date,2019-02-02 00:00:00
+date,2019-11-20 00:00:00
+date,2020-03-08 00:00:00
+date,2020-05-16 00:00:00
+date,2020-07-25 00:00:00
+date,2019-06-16 00:00:00
+date,2019-07-07 00:00:00
+date,2019-06-17 00:00:00
+date,2020-04-28 00:00:00
+date,2019-04-15 00:00:00
+date,2019-11-11 00:00:00
+date,2020-10-20 00:00:00
+date,2020-02-12 00:00:00
+date,2020-04-25 00:00:00
+date,2020-06-20 00:00:00
+date,2019-09-13 00:00:00
+date,2019-02-21 00:00:00
+date,2020-05-05 00:00:00
+date,2020-03-16 00:00:00
+date,2020-09-19 00:00:00
+date,2019-11-02 00:00:00
+date,2019-09-21 00:00:00
+date,2019-11-07 00:00:00
+date,2019-08-01 00:00:00
+date,2020-11-19 00:00:00
+date,2019-05-24 00:00:00
+date,2020-12-24 00:00:00
+date,2020-04-03 00:00:00
+date,2020-03-18 00:00:00
+date,2020-12-23 00:00:00
+date,2020-07-29 00:00:00
+date,2020-09-02 00:00:00
+date,2020-09-20 00:00:00
+date,2019-09-10 00:00:00
+date,2019-05-21 00:00:00
+date,2020-03-24 00:00:00
+date,2020-07-21 00:00:00
+date,2020-12-09 00:00:00
+date,2020-10-23 00:00:00
+date,2019-02-05 00:00:00
+date,2019-01-16 00:00:00
+date,2020-09-30 00:00:00
+date,2020-03-17 00:00:00
+date,2019-02-27 00:00:00
+date,2020-08-12 00:00:00
+date,2019-10-02 00:00:00
+date,2019-12-19 00:00:00
+date,2019-10-16 00:00:00
+date,2020-07-16 00:00:00
+date,2020-02-26 00:00:00
+date,2019-06-13 00:00:00
+date,2019-03-16 00:00:00
+date,2019-01-08 00:00:00
+date,2019-08-24 00:00:00
+date,2019-03-31 00:00:00
+date,2020-07-02 00:00:00
+date,2019-02-15 00:00:00
+date,2020-02-17 00:00:00
+date,2019-08-28 00:00:00
+date,2020-03-03 00:00:00
+date,2020-12-06 00:00:00
+date,2020-03-01 00:00:00
+date,2019-06-22 00:00:00
+date,2019-11-22 00:00:00
+date,2019-10-21 00:00:00
+category,Games
+category,Appliances
+category,Electronics
+category,Clothing
+category,Smartphones
+category,Accessories
+category,Beauty
+category,Books
+category,Other
+category,Outdoors
+customer_name,Konopelski LLC
+customer_name,Wisoky Inc
+customer_name,Hegmann Group
+customer_name,Kirlin and Sons
+customer_name,Labadie and Sons
+customer_name,Romaguera-Dietrich
+customer_name,Connelly-Mohr
+customer_name,Johns and Sons
+customer_name,"Jacobson, Marvin and Brown"
+customer_name,"Fisher, Morar and Skiles"
+customer_name,O'Connell-Mitchell
+customer_name,"Hamill, Kulas and Roob"
+customer_name,Friesen-Rath
+customer_name,Friesen and Sons
+customer_name,Kihn Inc
+customer_name,"Lueilwitz, Kerluke and Lesch"
+customer_name,"Shanahan, Schaden and Parker"
+customer_name,Wiza and Sons
+customer_name,"Dickinson, Hyatt and Berge"
+customer_name,Schoen-Keeling
+customer_name,Franecki-White
+customer_name,Altenwerth-Konopelski
+customer_name,"Spencer, Rogahn and Muller"
+customer_name,Hessel-Stiedemann
+customer_name,"Zieme, Bailey and Herzog"
+customer_name,Morissette Group
+customer_name,Armstrong-Little
+customer_name,Tillman and Sons
+customer_name,"Swaniawski, Runolfsson and Green"
+customer_name,McGlynn-Bergstrom
+customer_name,"Bashirian, Okuneva and Bechtelar"
+customer_name,"Rowe, Hermiston and Kessler"
+customer_name,"Schowalter, Lesch and Beahan"
+customer_name,Romaguera-Haley
+customer_name,Wyman Group
+customer_name,Dibbert Inc
+customer_name,"Parisian, Steuber and Satterfield"
+customer_name,"Abbott, Roberts and Torp"
+customer_name,Homenick-Marvin
+customer_name,Smith Group
+customer_name,McGlynn-Prosacco
+customer_name,"Keeling, Monahan and Pollich"
+customer_name,"Christiansen, Donnelly and Bechtelar"
+customer_name,Stehr-Bogan
+customer_name,"Leffler, Prohaska and Streich"
+customer_name,Corwin and Sons
+customer_name,Baumbach Group
+customer_name,West-Cummings
+customer_name,Larkin-Collier
+customer_name,Hilll-Vandervort
+customer_name,Wunsch LLC
+customer_name,Goldner-Dibbert
+customer_name,Marquardt-Kuvalis
+customer_name,"Hermiston, Simonis and Wisoky"
+customer_name,Stehr LLC
+customer_name,Rath-Schroeder
+customer_name,"Murray, Reichel and Nolan"
+customer_name,"Hartmann, Hane and Pfannerstill"
+customer_name,"Schmitt, Purdy and Johnson"
+customer_name,"Lubowitz, McLaughlin and Erdman"
+customer_name,Considine-Fisher
+customer_name,Gislason-Stanton
+customer_name,McClure Inc
+customer_name,Walter LLC
+customer_name,Gleichner-Green
+customer_name,"Farrell, Swaniawski and Crist"
+customer_name,Stamm-Zulauf
+customer_name,Hane Inc
+customer_name,Stamm Inc
+customer_name,"Heaney, Gulgowski and Kshlerin"
+customer_name,Gorczany-Lehner
+customer_name,Tromp LLC
+customer_name,Schuster Inc
+customer_name,"Lind, Mueller and Stoltenberg"
+customer_name,Littel-Blick
+sales_manager,Maxie Marrow
+sales_manager,Othello Bowes
+sales_manager,Celine Tumasian
+sales_manager,Piggy Roscrigg
+sales_manager,Rickard Doogood
+sales_manager,Ilsa Kob
+sales_manager,Jessamine Apark
+sales_manager,Charil Alpe
+sales_manager,Hube Corey
+sales_manager,Emalia Dinse
+sales_manager,Glenine Suttaby
+sales_manager,Modestia Byfford
+sales_manager,Denice Amberg
+sales_manager,Lambert Norheny
+sales_manager,Orsa Geekin
+sales_rep,Tarrah Castelletti
+sales_rep,Amelina Piscopiello
+sales_rep,Corene Shirer
+sales_rep,Crysta Halls
+sales_rep,Joshua Prevost
+sales_rep,Alyosha Meah
+sales_rep,Avrit Chanders
+sales_rep,Aurelie Wren
+sales_rep,Casie MacBain
+sales_rep,Hortense Gerring
+sales_rep,Jocelyn Laurentino
+sales_rep,Madelon Bront
+sales_rep,Maighdiln Upcraft
+sales_rep,Anita Woakes
+sales_rep,Brynn Dempster
+sales_rep,Jay Morefield
+sales_rep,Genevra Charrisson
+sales_rep,Winny Agnolo
+sales_rep,Caro Morfield
+sales_rep,Bernadine Fullagar
+sales_rep,Mellicent Mattys
+sales_rep,Perri Aldersley
+sales_rep,Palm Wetherald
+sales_rep,Ora Grennan
+sales_rep,Wat Bowkley
+sales_rep,Smitty Culverhouse
+sales_rep,Case Desorts
+sales_rep,Bunnie Tonbridge
+sales_rep,Bertha Walbrook
+sales_rep,Nero Harbisher
+sales_rep,Collin Mackness
+sales_rep,Shermy McGready
+sales_rep,Manuel Goudie
+sales_rep,Cobby Andersen
+sales_rep,Bank Coumbe
+device_type,Tablet
+device_type,PC
+device_type,Mobile
+order_id,70-0511466
+order_id,77-3489084
+order_id,65-8218141
+order_id,29-5478106
+order_id,57-6602854
+order_id,78-3301264
+order_id,32-3124563
+order_id,92-7042708
+order_id,15-2994585
+order_id,48-0713329
+order_id,16-0987104
+order_id,91-8142232
+order_id,85-9787047
+order_id,06-2196763
+order_id,51-9029547
+order_id,74-1131921
+order_id,26-9787272
+order_id,15-6838362
+order_id,31-6585710
+order_id,38-0584273
+order_id,27-4115444
+order_id,70-8991739
+order_id,27-3437546
+order_id,48-6452102
+order_id,58-2028009
+order_id,52-0695511
+order_id,30-3460885
+order_id,11-2653878
+order_id,65-0792739
+order_id,62-4331197
+order_id,00-1398218
+order_id,34-1570975
+order_id,99-0862667
+order_id,21-7461655
+order_id,94-1762263
+order_id,16-6855831
+order_id,86-6107692
+order_id,80-2242820
+order_id,21-4033151
+order_id,32-3534634
+order_id,88-8436664
+order_id,06-5566367
+order_id,89-5350599
+order_id,37-0756560
+order_id,51-4531731
+order_id,39-3209780
+order_id,65-2022928
+order_id,08-7576451
+order_id,57-2968987
+order_id,60-8646184
+order_id,32-3418936
+order_id,84-1343954
+order_id,06-9596696
+order_id,14-6700183
+order_id,04-7976277
+order_id,86-2962836
+order_id,12-1257338
+order_id,03-9337803
+order_id,28-0849652
+order_id,91-3344544
+order_id,37-0857161
+order_id,88-4621939
+order_id,52-7280101
+order_id,39-1671087
+order_id,58-9821508
+order_id,60-7777080
+order_id,12-4881666
+order_id,85-6263705
+order_id,23-5766200
+order_id,08-0446109
+order_id,56-6310976
+order_id,11-0955383
+order_id,27-7169008
+order_id,94-3251589
+order_id,57-2495984
+order_id,13-9607758
+order_id,32-1940437
+order_id,49-2458036
+order_id,14-1143584
+order_id,42-2646312
+order_id,70-3373325
+order_id,25-2355172
+order_id,07-3222085
+order_id,44-1953194
+order_id,36-3226083
+order_id,92-2645259
+order_id,81-2373308
+order_id,92-4695001
+order_id,37-8204282
+order_id,82-1082124
+order_id,06-5115020
+order_id,72-7630507
+order_id,65-5818172
+order_id,87-6162387
+order_id,53-1660551
+order_id,53-1426071
+order_id,46-2632808
+order_id,82-4653018
+order_id,66-0265458
+order_id,16-5450021
+order_id,30-8840089
+order_id,43-5417299
+order_id,59-1230573
+order_id,95-8015610
+order_id,61-4937643
+order_id,33-4102367
+order_id,88-5343320
+order_id,79-6676714
+order_id,29-5632797
+order_id,36-2366573
+order_id,75-1807214
+order_id,69-8016438
+order_id,21-7344983
+order_id,38-3894304
+order_id,19-8109416
+order_id,26-0092767
+order_id,21-2589548
+order_id,68-0080728
+order_id,35-4551515
+order_id,22-5761330
+order_id,96-3022721
+order_id,31-1849120
+order_id,34-3302340
+order_id,37-9761957
+order_id,19-9205287
+order_id,53-0205940
+order_id,11-5630090
+order_id,66-5572109
+order_id,36-0185776
+order_id,11-2988171
+order_id,64-0103144
+order_id,43-7357498
+order_id,98-6247105
+order_id,02-9523107
+order_id,74-6920956
+order_id,91-4735064
+order_id,52-3150154
+order_id,02-3364199
+order_id,67-6692861
+order_id,00-8086430
+order_id,22-4278602
+order_id,33-0729966
+order_id,09-7835975
+order_id,56-6094665
+order_id,54-5082146
+order_id,05-0243828
+order_id,30-9025281
+order_id,75-0683725
+order_id,06-4986886
+order_id,45-1867999
+order_id,52-5981325
+order_id,56-2408571
+order_id,73-2763209
+order_id,77-5229094
+order_id,10-1511807
+order_id,15-9091881
+order_id,08-4398900
+order_id,47-0713476
+order_id,51-1141675
+order_id,07-5296371
+order_id,00-7326184
+order_id,55-1904761
+order_id,15-3241183
+order_id,60-1991659
+order_id,12-2375671
+order_id,62-9738356
+order_id,77-3656041
+order_id,59-0893568
+order_id,22-7587128
+order_id,48-2124998
+order_id,89-0187996
+order_id,32-9344186
+order_id,34-8182639
+order_id,38-6130023
+order_id,30-7149594
+order_id,75-7443241
+order_id,16-8778373
+order_id,20-7532198
+order_id,30-7981953
+order_id,62-1694462
+order_id,98-3033030
+order_id,09-8360520
+order_id,03-2027170
+order_id,80-3039005
+order_id,46-0270404
+order_id,92-7234550
+order_id,39-5542863
+order_id,90-2530115
+order_id,79-6623911
+order_id,97-5797169
+order_id,49-2256360
+order_id,40-7356336
+order_id,70-0364033
+order_id,54-7503816
+order_id,09-3747816
+order_id,82-8836162
+order_id,75-9517276
+order_id,95-4271285
+order_id,73-8632957
+order_id,82-0533747
+order_id,72-2647440
+order_id,01-8080546
+order_id,51-5334556
+order_id,93-2085046
+order_id,75-1785229
+order_id,04-1808253
+order_id,63-4386955
+order_id,00-1210718
+order_id,05-5082715
+order_id,73-9492768
+order_id,24-8477374
+order_id,81-7970957
+order_id,71-4409662
+order_id,50-2481520
+order_id,33-8484080
+order_id,57-6995715
+order_id,16-3423161
+order_id,00-4698524
+order_id,57-1931933
+order_id,85-7784608
+order_id,48-7252604
+order_id,67-6072579
+order_id,48-7080069
+order_id,66-7717800
+order_id,04-6732680
+order_id,76-2572347
+order_id,48-8166416
+order_id,62-7218897
+order_id,04-2863062
+order_id,74-0214938
+order_id,50-1986322
+order_id,93-9111830
+order_id,36-1142710
+order_id,44-7664180
+order_id,78-3726363
+order_id,54-5705354
+order_id,04-2788693
+order_id,15-2503493
+order_id,56-2537757
+order_id,94-0775004
+order_id,44-5240815
+order_id,98-5257166
+order_id,74-6211038
+order_id,18-2580592
+order_id,82-4770311
+order_id,56-9241023
+order_id,02-3333733
+order_id,96-1698894
+order_id,70-9736399
+order_id,37-6597365
+order_id,14-5110197
+order_id,68-6141868
+order_id,28-7069317
+order_id,19-1017922
+order_id,07-6200800
+order_id,70-0112393
+order_id,81-4176165
+order_id,87-7908481
+order_id,25-6638623
+order_id,01-4729172
+order_id,12-4509008
+order_id,83-9569509
+order_id,92-4440351
+order_id,55-4161787
+order_id,21-4464304
+order_id,38-6891011
+order_id,51-3543971
+order_id,46-2962443
+order_id,78-7666796
+order_id,60-0406937
+order_id,89-7467187
+order_id,85-6625096
+order_id,56-7910696
+order_id,49-7167664
+order_id,30-9690927
+order_id,70-4650708
+order_id,71-1921602
+order_id,84-5310661
+order_id,47-9858688
+order_id,26-1781486
+order_id,70-5394452
+order_id,15-7053450
+order_id,22-6046651
+order_id,29-1727395
+order_id,63-0019978
+order_id,53-2132479
+order_id,84-0679518
+order_id,71-6499815
+order_id,98-0946281
+order_id,90-6933957
+order_id,29-8090560
+order_id,82-0537890
+order_id,40-9830607
+order_id,21-6670877
+order_id,68-5024232
+order_id,13-0833129
+order_id,53-0009701
+order_id,96-7625873
+order_id,84-9167618
+order_id,67-2823354
+order_id,07-7047482
+order_id,01-7655863
+order_id,47-5319780
+order_id,78-5541691
+order_id,93-9941140
+order_id,91-0416047
+order_id,46-6126203
+order_id,44-9908550
+order_id,27-9800293
+order_id,68-0176456
+order_id,66-7112079
+order_id,95-1862126
+order_id,03-3076058
+order_id,22-8551804
+order_id,85-3431441
+order_id,47-6702070
+order_id,39-6568658
+order_id,24-9178520
+order_id,61-4366487
+order_id,61-0888460
+order_id,54-3353166
+order_id,93-0380487
+order_id,17-0893784
+order_id,34-0286364
+order_id,46-1318487
+order_id,43-8355995
+order_id,20-3441688
+order_id,63-1220717
+order_id,25-2616039
+order_id,20-0499139
+order_id,92-6298656
+order_id,57-9765345
+order_id,16-9758497
+order_id,10-4704941
+order_id,70-8181545
+order_id,15-5051694
+order_id,20-4568650
+order_id,40-9497268
+order_id,77-4566105
+order_id,17-3178991
+order_id,25-9913528
+order_id,96-0020600
+order_id,66-8222460
+order_id,84-5642889
+order_id,19-6334792
+order_id,53-3037652
+order_id,47-9191500
+order_id,44-9179070
+order_id,21-3278349
+order_id,56-1063618
+order_id,68-3731565
+order_id,38-2969743
+order_id,84-2496865
+order_id,03-3461826
+order_id,62-3312495
+order_id,44-2650716
+order_id,73-4726386
+order_id,84-2858993
+order_id,24-2403756
+order_id,67-2684209
+order_id,26-1201622
+order_id,12-2202467
+order_id,99-3971751
+order_id,10-5202864
+order_id,95-2190016
+order_id,49-1493117
+order_id,45-3085595
+order_id,72-7973717
+order_id,72-4825752
+order_id,80-3206606
+order_id,22-5929243
+order_id,96-5231814
+order_id,84-1062113
+order_id,89-8942175
+order_id,44-9978904
+order_id,28-1840061
+order_id,19-3893110
+order_id,60-6998932
+order_id,99-9599677
+order_id,11-5260310
+order_id,76-2368068
+order_id,35-6825112
+order_id,25-6368157
+order_id,41-6241712
+order_id,65-0441590
+order_id,62-1501210
+order_id,15-3657248
+order_id,69-4462108
+order_id,53-7680732
+order_id,31-8846200
+order_id,34-3119010
+order_id,24-3140242
+order_id,60-9753536
+order_id,13-6163562
+order_id,78-8990131
+order_id,14-9919657
+order_id,84-5276032
+order_id,79-0973971
+order_id,55-4588115
+order_id,52-8377955
+order_id,37-2363680
+order_id,16-5837761
+order_id,01-8696189
+order_id,94-2134593
+order_id,84-9254695
+order_id,18-0704377
+order_id,03-4651559
+order_id,79-8966057
+order_id,47-5524071
+order_id,82-4495901
+order_id,36-2012010
+order_id,91-7317758
+order_id,36-2694099
+order_id,74-9554997
+order_id,57-5645459
+order_id,67-8646070
+order_id,62-5120016
+order_id,16-3842379
+order_id,73-8057834
+order_id,76-8416893
+order_id,80-1021367
+order_id,89-2424262
+order_id,01-1212783
+order_id,20-1827241
+order_id,18-7046062
+order_id,03-3542738
+order_id,73-3464233
+order_id,88-1349718
+order_id,52-9152387
+order_id,85-9560144
+order_id,76-0724533
+order_id,36-7597839
+order_id,44-6408586
+order_id,18-0483044
+order_id,19-3129154
+order_id,74-8625042
+order_id,97-4830372
+order_id,57-8678621
+order_id,21-8525376
+order_id,74-6473826
+order_id,98-3051699
+order_id,66-4296261
+order_id,64-5761908
+order_id,68-6900528
+order_id,03-4045721
+order_id,82-0616982
+order_id,07-1769568
+order_id,52-0213558
+order_id,90-7039701
+order_id,75-7291972
+order_id,27-7554919
+order_id,74-6221213
+order_id,50-0942872
+order_id,37-6033123
+order_id,13-1936536
+order_id,68-9875936
+order_id,64-1003834
+order_id,75-6291395
+order_id,31-9806848
+order_id,74-7472724
+order_id,66-6777720
+order_id,18-5234470
+order_id,82-8353642
+order_id,93-5465623
+order_id,77-3226391
+order_id,02-9253490
+order_id,78-6287811
+order_id,10-9932801
+order_id,29-0601002
+order_id,43-9259516
+order_id,13-0526029
+order_id,92-3462655
+order_id,74-4541594
+order_id,39-3557596
+order_id,02-1124101
+order_id,55-1395838
+order_id,52-7049356
+order_id,99-9215178
+order_id,75-6127722
+order_id,65-5376517
+order_id,68-9634139
+order_id,87-0922827
+order_id,70-1769929
+order_id,22-6938537
+order_id,86-3876359
+order_id,06-4611284
+order_id,31-2600204
+order_id,12-1249283
+order_id,96-1991854
+order_id,33-4706706
+order_id,88-1711226
+order_id,74-4429133
+order_id,31-7075495
+order_id,99-9093075
+order_id,54-1058965
+order_id,95-3196761
+order_id,48-2932903
+order_id,36-4321653
+order_id,95-7886861
+order_id,19-9649739
+order_id,59-2117058
+order_id,28-6152726
+order_id,34-8728117
+order_id,98-8250897
+order_id,65-2631885
+order_id,91-4296427
+order_id,30-9137723
+order_id,35-7483371
+order_id,86-6380587
+order_id,04-4730440
+order_id,47-5733147
+order_id,69-6259390
+order_id,59-3526945
+order_id,12-3815754
+order_id,23-1397222
+order_id,80-1374023
+order_id,98-4201877
+order_id,26-9948924
+order_id,04-8899739
+order_id,76-1827989
+order_id,67-3929836
+order_id,60-7663173
+order_id,86-6763776
+order_id,02-3972649
+order_id,87-5540520
+order_id,99-8643527
+order_id,47-7207206
+order_id,70-0044622
+order_id,86-6760202
+order_id,64-9816105
+order_id,20-1013432
+order_id,75-5652593
+order_id,77-7771177
+order_id,41-0722740
+order_id,85-5544928
+order_id,70-7769332
+order_id,46-9710750
+order_id,44-9036885
+order_id,64-4188827
+order_id,61-3721294
+order_id,34-0232219
+order_id,81-1454737
+order_id,57-7927520
+order_id,72-2796883
+order_id,94-1199389
+order_id,97-8921759
+order_id,96-1388247
+order_id,46-5888587
+order_id,44-0527427
+order_id,47-0640313
+order_id,50-8357453
+order_id,46-8792953
+order_id,47-9701762
+order_id,66-2612057
+order_id,11-6024248
+order_id,93-4118211
+order_id,33-8547717
+order_id,76-3837496
+order_id,24-6566439
+order_id,28-0622425
+order_id,99-3994854
+order_id,71-2709641
+order_id,84-4465649
+order_id,37-7100862
+order_id,57-6427586
+order_id,97-8712680
+order_id,06-8466490
+order_id,88-5406813
+order_id,55-4422832
+order_id,11-5257937
+order_id,56-0800364
+order_id,29-0072186
+order_id,74-9856135
+order_id,63-2957047
+order_id,21-8595718
+order_id,14-1283254
+order_id,79-0393736
+order_id,55-3118263
+order_id,91-4126746
+order_id,59-5711012
+order_id,56-8476539
+order_id,97-5858605
+order_id,75-8968627
+order_id,55-5032186
+order_id,93-8309926
+order_id,26-5649751
+order_id,58-9822844
+order_id,59-5892824
+order_id,83-7592334
+order_id,45-5509135
+order_id,98-1814878
+order_id,17-1884075
+order_id,19-4538571
+order_id,28-0362135
+order_id,26-9826298
+order_id,94-3590580
+order_id,22-6745595
+order_id,81-9457605
+order_id,99-7422044
+order_id,58-2923511
+order_id,10-9241948
+order_id,55-7848276
+order_id,08-5093310
+order_id,23-0941629
+order_id,79-6118087
+order_id,39-2536155
+order_id,46-0117523
+order_id,92-7917751
+order_id,80-8230605
+order_id,43-4245267
+order_id,30-4823900
+order_id,29-1001593
+order_id,89-3466746
+order_id,20-1191256
+order_id,24-2442637
+order_id,31-8836719
+order_id,98-2104934
+order_id,29-1888759
+order_id,43-6672888
+order_id,76-5919033
+order_id,76-5888381
+order_id,85-4732103
+order_id,22-9949979
+order_id,16-5710075
+order_id,21-2357660
+order_id,95-6123269
+order_id,82-9352154
+order_id,38-7603760
+order_id,35-6942653
+order_id,40-0265810
+order_id,63-7370049
+order_id,78-6165949
+order_id,00-6227453
+order_id,29-9208067
+order_id,73-3910940
+order_id,55-2128150
+order_id,52-3394023
+order_id,38-2806168
+order_id,97-5905883
+order_id,29-3662564
+order_id,38-8840357
+order_id,03-8586261
+order_id,80-1894360
+order_id,35-9605742
+order_id,73-6329299
+order_id,53-0615558
+order_id,97-1288901
+order_id,51-0837613
+order_id,53-3803984
+order_id,65-0414599
+order_id,65-4008552
+order_id,61-7979087
+order_id,98-4157323
+order_id,18-1809309
+order_id,58-5376153
+order_id,85-2223377
+order_id,46-5327740
+order_id,79-1331359
+order_id,16-2824654
+order_id,40-5308505
+order_id,84-1745028
+order_id,03-3965480
+order_id,51-5324396
+order_id,46-6076582
+order_id,45-5157875
+order_id,70-9378988
+order_id,11-8965256
+order_id,25-6133000
+order_id,95-1195568
+order_id,85-1464621
+order_id,24-7985425
+order_id,80-4161102
+order_id,73-9246627
+order_id,32-3994860
+order_id,36-3410564
+order_id,96-7618409
+order_id,42-1879788
+order_id,88-7664123
+order_id,35-1705563
+order_id,15-8765160
+order_id,39-5953116
+order_id,75-7848944
+order_id,02-6830973
+order_id,95-4281933
+order_id,23-3084772
+order_id,17-4401585
+order_id,97-6414953
+order_id,75-5380350
+order_id,03-5073152
+order_id,94-0623186
+order_id,66-5810051
+order_id,34-8443139
+order_id,89-0300778
+order_id,48-3484986
+order_id,03-0455038
+order_id,80-5258827
+order_id,50-0376562
+order_id,84-2614836
+order_id,53-3568171
+order_id,63-6767584
+order_id,43-7205800
+order_id,72-9074281
+order_id,60-8661261
+order_id,38-8230515
+order_id,84-0565956
+order_id,53-4511393
+order_id,09-3959499
+order_id,33-2816759
+order_id,98-9382686
+order_id,21-2097342
+order_id,01-6573793
+order_id,51-9052860
+order_id,18-3315246
+order_id,86-7866497
+order_id,79-4826735
+order_id,29-5158368
+order_id,30-8215510
+order_id,99-3651863
+order_id,29-6521179
+order_id,30-0037690
+order_id,98-5774102
+order_id,66-6360568
+order_id,71-3278650
+order_id,42-8394841
+order_id,55-6785409
+order_id,85-9541179
+order_id,28-6038070
+order_id,45-2229786
+order_id,09-7737652
+order_id,50-0521963
+order_id,36-8783637
+order_id,81-0573181
+order_id,00-2549549
+order_id,59-0348389
+order_id,55-1050582
+order_id,34-5150360
+order_id,80-7090422
+order_id,54-2767741
+order_id,34-0783331
+order_id,49-7876403
+order_id,19-9073616
+order_id,72-3928347
+order_id,42-7027181
+order_id,04-6161825
+order_id,40-8287610
+order_id,60-8083173
+order_id,68-1806238
+order_id,73-4380400
+order_id,49-8489293
+order_id,64-4923214
+order_id,32-5562588
+order_id,35-4712641
+order_id,15-5167065
+order_id,32-2110689
+order_id,94-8641337
+order_id,24-6905998
+order_id,82-2837449
+order_id,46-4560578
+order_id,19-5610175
+order_id,81-9170157
+order_id,53-1326953
+order_id,75-6038587
+order_id,94-8026718
+order_id,09-3668672
+order_id,90-2797129
+order_id,57-4142025
+order_id,88-8981595
+order_id,35-0548738
+order_id,96-5143420
+order_id,85-8092784
+order_id,47-8186791
+order_id,80-5941460
+order_id,67-3672347
+order_id,92-5154775
+order_id,61-8262308
+order_id,34-4313860
+order_id,44-9239029
+order_id,61-0532585
+order_id,16-9079414
+order_id,20-3384992
+order_id,45-5963143
+order_id,34-9966345
+order_id,15-2948501
+order_id,61-7521706
+order_id,99-9021526
+order_id,71-4782689
+order_id,61-4610981
+order_id,42-5303223
+order_id,60-6055725
+order_id,44-2994974
+order_id,98-5721101
+order_id,34-6603897
+order_id,99-7842298
+order_id,45-3965395
+order_id,24-7300640
+order_id,58-7865136
+order_id,98-3280428
+order_id,86-9456489
+order_id,70-7426559
+order_id,82-2840501
+order_id,24-4511396
+order_id,84-0460695
+order_id,09-3404706
+order_id,75-3776704
+order_id,47-5051773
+order_id,56-2783503
+order_id,78-7812852
+order_id,87-9980890
+order_id,17-3240628
+order_id,24-2679038
+order_id,51-2167412
+order_id,76-2146784
+order_id,99-0564964
+order_id,67-7432229
+order_id,15-0224516
+order_id,92-3687989
+order_id,59-5568557
+order_id,99-5465830
+order_id,84-9385946
+order_id,82-1337530
+order_id,71-0122842
+order_id,81-5976459
+order_id,21-2965409
+order_id,75-6638402
+order_id,81-9757849
+order_id,03-3136289
+order_id,20-0021649
+order_id,32-9007470
+order_id,63-0694419
+order_id,75-7245546
+order_id,98-9112505
+order_id,78-8602908
+order_id,63-6848448
+order_id,56-7081196
+order_id,00-3338378
+order_id,05-2359767
+order_id,28-6585323
+order_id,01-6107437
+order_id,03-7559332
+order_id,58-7703341
+order_id,18-8528486
+order_id,48-3190394
+order_id,10-0386535
+order_id,14-4225824
+order_id,86-0928074
+order_id,59-9184649
+order_id,39-5658730
+order_id,75-9585763
+order_id,63-0813030
+order_id,80-8019337
+order_id,92-4106004
+order_id,47-9920494
+order_id,29-8979189
+order_id,70-7107956
+order_id,82-2972108
+order_id,54-5107115
+order_id,26-1771681
+order_id,87-0122224
+order_id,63-5897834
+order_id,46-5576111
+order_id,94-3509391
+order_id,77-6124790
+order_id,45-8314773
+order_id,50-1695443
+order_id,68-6382353
+order_id,34-8903845
+order_id,10-5899580
+order_id,41-6407014
+order_id,39-1945268
+order_id,30-6005742
+order_id,49-9010863
+order_id,58-2235320
+order_id,49-1743669
+order_id,03-6962760
+order_id,42-2477150
+order_id,82-9740062
+order_id,13-4700827
+order_id,20-9472915
+order_id,02-8721192
+order_id,76-0774122
+order_id,40-9114557
+order_id,64-8300193
+order_id,61-3294149
+order_id,85-3690127
+order_id,95-1516475
+order_id,34-7627348
+order_id,74-0191565
+order_id,35-1708827
+order_id,30-4045249
+order_id,25-1045028
+order_id,70-5224180
+order_id,57-0945292
+order_id,17-3994138
+order_id,52-3693331
+order_id,45-8966277
+order_id,55-2137809
+order_id,87-1399932
+order_id,35-0173281
+order_id,83-0606533
+order_id,76-5324325
+order_id,39-8642490
+order_id,33-4022317
+order_id,31-7667796
+order_id,19-0320558
+order_id,09-6527060
+order_id,91-6738094
+order_id,46-5580805
+order_id,09-9618844
+order_id,60-0610487
+order_id,89-7513050
+order_id,90-3993986
+order_id,98-2574776
+order_id,22-1266257
+order_id,69-1300467
+order_id,20-6735303
+order_id,91-6673445
+order_id,76-0164425
+order_id,72-1300449
+order_id,15-3943365
+order_id,44-0517932
+order_id,46-1054213
+order_id,34-5793997
+order_id,50-2002828
+order_id,20-6477396
+order_id,15-3268783
+order_id,77-9240051
+order_id,68-8279682
+order_id,36-7939842
+order_id,54-1473475
+order_id,77-1100434
+order_id,18-0945763
+order_id,19-3013452
+order_id,48-7662634
+order_id,95-4388709
+order_id,20-7636879
+order_id,58-1975365
+order_id,98-6563368
+order_id,22-0725785
+order_id,42-2765593
+order_id,24-9702599
+order_id,58-1079558
+order_id,20-3125420
+order_id,68-3583935
+order_id,43-1236055
+order_id,85-4014655
+order_id,18-7077174
+order_id,00-5823706
+order_id,42-2439801
+order_id,24-4272786
+order_id,34-0265266
+order_id,17-8884817
+order_id,49-6263811
+order_id,22-0156233
+order_id,91-7447818
+order_id,96-0180648
+order_id,13-0740797
+order_id,17-5553034
+order_id,51-0685379
+order_id,45-6860897
+order_id,38-1449694
+order_id,02-2183787
+order_id,23-8271333
+order_id,95-6935153
+order_id,58-8969119
+order_id,90-4449856
+order_id,13-0624842
+order_id,44-6718687
+order_id,33-6126082
+order_id,59-2480731
+order_id,58-8728288
+order_id,38-5910704
+order_id,22-4332301
+order_id,78-2307905
+order_id,31-6770318
+order_id,93-2627296
+order_id,32-2114915
+order_id,22-3969127
+order_id,44-5200140
+order_id,26-9990483
+order_id,65-2343846
+order_id,92-0523700
+order_id,37-5025811
+order_id,84-7042200
+order_id,06-4416964
+order_id,25-4970452
+order_id,42-7823733
+order_id,84-4478396
+order_id,00-7031798
+order_id,53-7769693
+order_id,05-2772504
+order_id,90-2194359
+order_id,79-3154360
+order_id,37-6449638
+order_id,30-2982340
+order_id,35-9372764
+order_id,07-3201531
+order_id,77-0650807
+order_id,44-2757396
+order_id,22-7259031
+order_id,60-6986682

@@ -1,0 +1,9 @@
+dataset,column,dtype
+extra_data_dataset,country,object
+extra_data_dataset,date,datetime64[ns]
+extra_data_dataset,category,object
+extra_data_dataset,customer_name,object
+extra_data_dataset,sales_manager,object
+extra_data_dataset,sales_rep,object
+extra_data_dataset,device_type,object
+extra_data_dataset,order_id,object

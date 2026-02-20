@@ -1,0 +1,9 @@
+dataset,column,dtype
+dim_customers_dataset,customer_number,object
+dim_customers_dataset,first_name,object
+dim_customers_dataset,last_name,object
+dim_customers_dataset,country,object
+dim_customers_dataset,marital_status,object
+dim_customers_dataset,gender,object
+dim_customers_dataset,birthdate,datetime64[ns]
+dim_customers_dataset,create_date,datetime64[ns]

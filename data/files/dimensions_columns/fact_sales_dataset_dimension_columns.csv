@@ -1,0 +1,5 @@
+dataset,column,dtype
+fact_sales_dataset,order_number,object
+fact_sales_dataset,order_date,datetime64[ns]
+fact_sales_dataset,shipping_date,datetime64[ns]
+fact_sales_dataset,due_date,datetime64[ns]

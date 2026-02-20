@@ -1,0 +1,49 @@
+dataset,column,value
+extra_data_dataset,country,Sweden
+extra_data_dataset,country,France
+extra_data_dataset,country,Portugal
+extra_data_dataset,country,Spain
+extra_data_dataset,country,Finland
+extra_data_dataset,country,UK
+extra_data_dataset,category,Books
+extra_data_dataset,category,Appliances
+extra_data_dataset,category,Beauty
+extra_data_dataset,category,Clothing
+extra_data_dataset,category,Games
+extra_data_dataset,category,Accessories
+extra_data_dataset,customer_name,Goldner-Dibbert
+extra_data_dataset,customer_name,Gislason-Stanton
+extra_data_dataset,customer_name,Schoen-Keeling
+extra_data_dataset,customer_name,Hessel-Stiedemann
+extra_data_dataset,customer_name,"Farrell, Swaniawski and Crist"
+extra_data_dataset,customer_name,Hilll-Vandervort
+extra_data_dataset,customer_name,"Hermiston, Simonis and Wisoky"
+extra_data_dataset,customer_name,Johns and Sons
+extra_data_dataset,customer_name,Larkin-Collier
+extra_data_dataset,sales_manager,Maxie Marrow
+extra_data_dataset,sales_manager,Othello Bowes
+extra_data_dataset,sales_manager,Celine Tumasian
+extra_data_dataset,sales_manager,Emalia Dinse
+extra_data_dataset,sales_manager,Hube Corey
+extra_data_dataset,sales_manager,Jessamine Apark
+extra_data_dataset,sales_rep,Madelon Bront
+extra_data_dataset,sales_rep,Maighdiln Upcraft
+extra_data_dataset,sales_rep,Smitty Culverhouse
+extra_data_dataset,sales_rep,Aurelie Wren
+extra_data_dataset,sales_rep,Perri Aldersley
+extra_data_dataset,sales_rep,Wat Bowkley
+extra_data_dataset,sales_rep,Winny Agnolo
+extra_data_dataset,sales_rep,Bertha Walbrook
+extra_data_dataset,device_type,Mobile
+extra_data_dataset,device_type,PC
+extra_data_dataset,device_type,Tablet
+extra_data_dataset,order_id,70-0511466
+extra_data_dataset,order_id,62-3312495
+extra_data_dataset,order_id,69-6259390
+extra_data_dataset,order_id,14-6700183
+extra_data_dataset,order_id,91-4126746
+extra_data_dataset,order_id,60-6998932
+extra_data_dataset,order_id,28-6585323
+extra_data_dataset,order_id,64-5761908
+extra_data_dataset,order_id,15-8765160
+extra_data_dataset,order_id,58-7703341
