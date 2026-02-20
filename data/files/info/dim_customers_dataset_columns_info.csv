@@ -1,11 +1,11 @@
 #,Column,Non-Null Count,Dtype
-0,customer_key,18484,float64
-1,customer_id,18484,float64
+0,customer_key,18484,int64
+1,customer_id,18484,int64
 2,customer_number,18484,object
 3,first_name,18484,object
 4,last_name,18484,object
-5,country,18484,object
+5,country,18147,object
 6,marital_status,18484,object
-7,gender,18484,object
-8,birthdate,18484,datetime64[ns]
-9,create_date,18484,datetime64[ns]
+7,gender,18469,object
+8,birthdate,18467,object
+9,create_date,18484,object

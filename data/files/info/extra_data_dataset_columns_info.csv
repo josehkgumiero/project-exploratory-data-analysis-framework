@@ -2,11 +2,11 @@
 0,country,10,object
 1,order_value_EUR,10,float64
 2,cost,10,float64
-3,date,10,datetime64[ns]
+3,date,10,object
 4,category,10,object
 5,customer_name,10,object
 6,sales_manager,10,object
 7,sales_rep,10,object
-8,device_type,10,object
+8,device_type,9,object
 9,order_id,10,object
-10,refund,10,float64
+10,refund,10,int64

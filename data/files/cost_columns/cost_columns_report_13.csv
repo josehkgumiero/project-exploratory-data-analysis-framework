@@ -1,0 +1,4 @@
+dataset_name,column_name,dtype
+sales_dataset,cost,object
+extra_data_dataset,cost,float64
+dim_products_dataset,cost,int64

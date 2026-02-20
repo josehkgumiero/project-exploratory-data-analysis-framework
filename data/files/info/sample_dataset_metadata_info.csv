@@ -1,2 +1,2 @@
 RangeIndex,Total Rows,Total Columns,Dtype Summary,Memory Usage (MB)
-0 to 568,569,31,"{dtype('float64'): 30, dtype('O'): 1}",0.1618
+0 to 568,569,31,"{dtype('float64'): 29, dtype('O'): 1, dtype('int64'): 1}",0.16

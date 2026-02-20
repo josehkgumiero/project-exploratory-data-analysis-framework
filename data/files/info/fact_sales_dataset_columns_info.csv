@@ -1,10 +1,10 @@
 #,Column,Non-Null Count,Dtype
 0,order_number,60398,object
-1,product_key,60398,float64
-2,customer_key,60398,float64
-3,order_date,60398,datetime64[ns]
-4,shipping_date,60398,datetime64[ns]
-5,due_date,60398,datetime64[ns]
-6,sales_amount,60398,float64
-7,quantity,60398,float64
-8,price,60398,float64
+1,product_key,60398,int64
+2,customer_key,60398,int64
+3,order_date,60379,object
+4,shipping_date,60398,object
+5,due_date,60398,object
+6,sales_amount,60398,int64
+7,quantity,60398,int64
+8,price,60398,int64

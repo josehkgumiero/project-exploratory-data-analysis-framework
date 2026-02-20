@@ -1,0 +1,11 @@
+column,missing_ratio
+country,0.0
+date,0.0
+customer_name,0.0
+category,0.0
+sales_manager,0.0
+sales_rep,0.0
+order_id,0.0
+cost,0.001
+order_value_EUR,0.005
+device_type,0.005

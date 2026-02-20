@@ -1,0 +1,10 @@
+country,order_value_EUR,cost,date,category,customer_name,sales_manager,sales_rep,device_type,order_id,refund
+Sweden,17524.02,14122.61,2020-12-02,Books,Goldner-Dibbert,Maxie Marrow,Madelon Bront,Mobile,70-0511466,7964.0
+Portugal,74532.02,59752.32,2020-02-04,Beauty,Hessel-Stiedemann,Celine Tumasian,Aurelie Wren,PC,14-6700183,4260.0
+Portugal,71620.08,62245.01,2019-05-02,Books,Schoen-Keeling,Celine Tumasian,Smitty Culverhouse,PC,69-6259390,2809.0
+Portugal,78461.13,63537.82,2020-10-05,Appliances,Hessel-Stiedemann,Celine Tumasian,Smitty Culverhouse,Mobile,91-4126746,6038.0
+Spain,84900.24,73701.9,2020-07-14,Clothing,"Farrell, Swaniawski and Crist",Emalia Dinse,Perri Aldersley,PC,60-6998932,7598.0
+Finland,116563.4,92807.78,2019-09-26,Games,Hilll-Vandervort,Hube Corey,Wat Bowkley,Mobile,28-6585323,2928.0
+UK,156585.22,126599.15,2020-08-30,Accessories,"Hermiston, Simonis and Wisoky",Jessamine Apark,Winny Agnolo,PC,64-5761908,9376.0
+Spain,178763.42,146621.76,2019-12-22,Games,Johns and Sons,Emalia Dinse,Bertha Walbrook,Tablet,15-8765160,5153.0
+Portugal,296685.56,257480.34,2019-11-07,Clothing,Larkin-Collier,Celine Tumasian,Smitty Culverhouse,PC,58-7703341,3955.0

@@ -38,15 +38,6 @@ que titulo eu dou para esse codigo em markdon no notebook:
     - ##### Test Execution - Dataset Info Profiler Engine
     - ##### Dataset Info Profiler Engine Execution
 - ##### DataFrame Transformations
-    - ##### Merge and Concat DataFrames
-        - #####
-        - #####
-        - #####
-        - #####
-        - #####
-        - #####
-        - #####
-        - #####
     - ##### Mixed Data Type
         - ##### Date Column Profiling Engine
         - ##### Date Column Profiling Engine Validation
@@ -93,25 +84,25 @@ que titulo eu dou para esse codigo em markdon no notebook:
         - ##### Unique Value Extractor Engine Execution
         - ##### Unique Value Count Extractor Engine Execution
         - ##### Count the Dataset in the Dictionary
-        - ##### 
-        - #####
-        - #####
-        - #####
-        - #####
-        - #####
-        - #####
-        - #####
-        - #####
-        - #####
-        - #####
-        - #####
-        - #####
-        - #####
-        - #####
-        - #####
-        - #####
-        - #####
-        - #####
+    - ##### Merge and Concat
+        - ##### Dataset Merger Engine
+        - ##### Dataset Merger Engine Validation
+        - ##### Test Execution - Dataset Merger Engine
+        - ##### Dataset Merger Engine Execution
+        - ##### Dataset Concatenator Engine
+        - ##### Dataset Concatenator Engine Validation
+        - ##### Test Execution - Dataset Concatenator Engine
+        - ##### Dataset Concatenator Engine Execution
+    - ##### Insightful Data Filtering By Column
+        - ##### Dataset Sorter Engine
+        - ##### Dataset Sorter Engine Validation
+        - ##### Test Execution - Dataset Sorter Engine
+        - ##### Dataset Sorter Engine Execution
+        - ##### Filtering Dataset By Column
+        - ##### Dataset Filter Manager Engine
+        - ##### Dataset Filter Manager Engine Validation
+        - ##### Test Execution - Dataset Filter Manager Engine
+        - ##### Dataset Filter Manager Engine Execution
         - #####
         - #####
         - #####

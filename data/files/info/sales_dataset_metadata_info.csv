@@ -1,2 +1,2 @@
 RangeIndex,Total Rows,Total Columns,Dtype Summary,Memory Usage (MB)
-0 to 999,1000,10,"{dtype('O'): 7, dtype('float64'): 2, dtype('<M8[ns]'): 1}",0.4733
+0 to 999,1000,10,"{dtype('O'): 9, dtype('float64'): 1}",0.5478
