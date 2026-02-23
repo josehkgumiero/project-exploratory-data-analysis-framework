@@ -1,0 +1,4 @@
+dataset_name,column_name,dtype
+dataset_a,product_cost,int64
+dataset_a,ShippingCost,float64
+dataset_b,total_COST,object
