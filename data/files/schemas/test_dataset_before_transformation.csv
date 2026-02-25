@@ -1,0 +1,4 @@
+dataset_name,column_name,data_type
+test_dataset,id,int64
+test_dataset,name,object
+test_dataset,value,float64

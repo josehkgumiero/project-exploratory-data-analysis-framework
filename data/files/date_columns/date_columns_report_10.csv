@@ -1,4 +1,0 @@
-dataset_name,column_name,dtype
-dataset_a,order_date,object
-dataset_a,shipDate,object
-dataset_b,birth_date,object

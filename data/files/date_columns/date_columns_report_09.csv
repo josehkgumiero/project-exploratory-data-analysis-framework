@@ -1,9 +1,0 @@
-dataset_name,column_name,dtype
-sales_dataset,date,datetime64[ns]
-extra_data_dataset,date,datetime64[ns]
-fact_sales_dataset,order_date,datetime64[ns]
-fact_sales_dataset,shipping_date,datetime64[ns]
-fact_sales_dataset,due_date,datetime64[ns]
-dim_customers_dataset,birthdate,datetime64[ns]
-dim_customers_dataset,create_date,datetime64[ns]
-dim_products_dataset,start_date,datetime64[ns]
